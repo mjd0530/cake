@@ -4,12 +4,7 @@
     "core/ant",
     "core/radix.light",
     "core/radix.dark",
-    "light/cake",
-    "dark/cake",
-    "MUI Color",
-    "core/cake_mui",
-    "core/mui",
-    "theme/dark/cake",
-    "theme/light/cake"
+    "core/cake.light",
+    "core/cake.dark"
   ]
 }
