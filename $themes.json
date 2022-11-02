@@ -4,7 +4,7 @@
     "name": "dark.cake",
     "selectedTokenSets": {
       "core/ant": "disabled",
-      "core/cake": "enabled",
+      "core/cake": "source",
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "core/cake.light": "disabled",
@@ -548,7 +548,7 @@
     "name": "light.cake",
     "selectedTokenSets": {
       "core/ant": "disabled",
-      "core/cake": "enabled",
+      "core/cake": "source",
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "core/cake.light": "source",
