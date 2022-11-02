@@ -1,11 +1,10 @@
 {
   "tokenSetOrder": [
     "core/cake",
-    "core/ant",
-    "core/radix.light",
-    "core/radix.dark",
     "core/cake.light",
     "core/cake.dark",
+    "core/radix.light",
+    "core/radix.dark",
     "light/cake",
     "dark/cake"
   ]

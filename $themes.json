@@ -3,7 +3,6 @@
     "id": "804edf7da2d0a5c3d915fe9374bd0e651e87d0d7",
     "name": "dark.cake",
     "selectedTokenSets": {
-      "core/ant": "disabled",
       "core/cake": "source",
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
@@ -547,7 +546,6 @@
     "id": "2d65a57e7d8553123cd1b460f6dbbbad79b61246",
     "name": "light.cake",
     "selectedTokenSets": {
-      "core/ant": "disabled",
       "core/cake": "source",
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
