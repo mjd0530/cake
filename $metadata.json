@@ -5,7 +5,6 @@
     "core/radix.light",
     "core/radix.dark",
     "light/cake",
-    "dark/cake",
-    "MUI Color"
+    "dark/cake"
   ]
 }

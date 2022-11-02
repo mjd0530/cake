@@ -1,15 +1,14 @@
 [
   {
-    "id": "804edf7da2d0a5c3d915fe9374bd0e651e87d0d7",
-    "name": "dark.cake",
+    "id": "2d65a57e7d8553123cd1b460f6dbbbad79b61246",
+    "name": "light.cake",
     "selectedTokenSets": {
       "core/ant": "disabled",
       "core/cake": "enabled",
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "dark/cake": "disabled",
-      "light/cake": "disabled",
-      "MUI Color": "disabled"
+      "light/cake": "source"
     },
     "$figmaStyleReferences": {
       "Typography.H1": "S:68a876b07fb6b2e35a5d39ae8d839f23d750db96,",
@@ -463,16 +462,15 @@
     }
   },
   {
-    "id": "2d65a57e7d8553123cd1b460f6dbbbad79b61246",
-    "name": "light.cake",
+    "id": "804edf7da2d0a5c3d915fe9374bd0e651e87d0d7",
+    "name": "dark.cake",
     "selectedTokenSets": {
       "core/ant": "disabled",
       "core/cake": "enabled",
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
-      "dark/cake": "disabled",
-      "light/cake": "source",
-      "MUI Color": "disabled"
+      "dark/cake": "source",
+      "light/cake": "disabled"
     },
     "$figmaStyleReferences": {
       "Typography.H1": "S:68a876b07fb6b2e35a5d39ae8d839f23d750db96,",
