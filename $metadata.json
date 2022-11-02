@@ -1,3 +1,9 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "core/mui",
+    "core/cake_mui",
+    "core/ant",
+    "theme/light/cake",
+    "theme/dark/cake"
+  ]
 }

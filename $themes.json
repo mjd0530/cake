@@ -1,74 +1,26 @@
 [
   {
-    "id": "0e701d580dceccd7f995d09500141b0aff74696d",
-    "name": "BL",
-    "selectedTokenSets": {},
+    "id": "804edf7da2d0a5c3d915fe9374bd0e651e87d0d7",
+    "name": "dark.cake",
+    "selectedTokenSets": {
+      "core/cake_mui": "source",
+      "core/mui": "disabled",
+      "core/ant": "disabled",
+      "theme/dark/cake": "source",
+      "theme/light/cake": "disabled"
+    },
     "$figmaStyleReferences": {}
   },
   {
-    "id": "a5770f645223481f7cd6d9a8e63e8f7e9e25bff5",
-    "name": "whct_desert",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "bbe6f15f1f791b330a74e815dae74a4e4614bf4a",
-    "name": "whct_aquatic",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "aca04ecb1510b9084d4a3ca54a631c8fb1e83f7d",
-    "name": "whct_dusk",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "0f006e36258d71c17575cc25456b9f4cfa3944c5",
-    "name": "whct_night sky",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "2e8987e5942922d7483a7f24741ab6a60e31bed5",
-    "name": "AL",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "6422d58441bd5c440a4ba87d0afd93c971fc9941",
-    "name": "AD",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "4a8a1d8eeaa0433de4df95c90910952f34593621",
-    "name": "BD",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "c720070092c659cadd39a5512e3e8831d2257777",
-    "name": "CD",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "37fe01a508c3ea95c0fe1e6fbc4913c46aec45f9",
-    "name": "CL",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "ed4b711fa9cac12cacfc9dd0abb0f2e687df7e57",
-    "name": "DD",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "a03af46c8fca826eb75d7241d94185c8f3f1823e",
-    "name": "DL",
-    "selectedTokenSets": {},
+    "id": "2d65a57e7d8553123cd1b460f6dbbbad79b61246",
+    "name": "light.cake",
+    "selectedTokenSets": {
+      "core/cake_mui": "enabled",
+      "core/mui": "disabled",
+      "core/ant": "disabled",
+      "theme/dark/cake": "disabled",
+      "theme/light/cake": "source"
+    },
     "$figmaStyleReferences": {}
   }
 ]
