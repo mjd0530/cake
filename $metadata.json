@@ -1,9 +1,11 @@
 {
   "tokenSetOrder": [
-    "core/mui",
-    "core/cake_mui",
+    "core/cake",
     "core/ant",
-    "theme/light/cake",
-    "theme/dark/cake"
+    "core/radix.light",
+    "core/radix.dark",
+    "light/cake",
+    "dark/cake",
+    "MUI Color"
   ]
 }
