@@ -8,7 +8,8 @@
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "core/cake.light": "source",
-      "core/cake.dark": "disabled"
+      "core/cake.dark": "disabled",
+      "light/cake": "source"
     },
     "$figmaStyleReferences": {
       "Typography.H1": "S:68a876b07fb6b2e35a5d39ae8d839f23d750db96,",
@@ -470,7 +471,8 @@
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "core/cake.light": "disabled",
-      "core/cake.dark": "source"
+      "core/cake.dark": "source",
+      "dark/cake": "source"
     },
     "$figmaStyleReferences": {
       "Typography.H1": "S:68a876b07fb6b2e35a5d39ae8d839f23d750db96,",

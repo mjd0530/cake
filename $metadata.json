@@ -5,6 +5,8 @@
     "core/radix.light",
     "core/radix.dark",
     "core/cake.light",
-    "core/cake.dark"
+    "core/cake.dark",
+    "light/cake",
+    "dark/cake"
   ]
 }
