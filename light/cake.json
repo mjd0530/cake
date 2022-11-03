@@ -1,421 +1,419 @@
 {
-  "Color": {
-    "Text": {
-      "Primary": {
-        "value": "#000000de",
-        "type": "color",
-        "description": "Reflects the text.primary variable from the theme object"
-      },
-      "Secondary": {
-        "value": "#00000099",
-        "type": "color",
-        "description": "Reflects the text.secondary variable from the theme object"
-      },
-      "Disabled": {
-        "value": "#00000061",
-        "type": "color",
-        "description": "Reflects the text.disabled variable from the theme object"
-      }
-    },
+  "Text": {
     "Primary": {
-      "Main": {
-        "value": "#1976d2",
-        "type": "color",
-        "description": "Reflects the Primary/Main variable from the theme object"
-      },
-      "Dark": {
-        "value": "#1565c0",
-        "type": "color",
-        "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
-      },
-      "Light": {
-        "value": "#42a5f5",
-        "type": "color",
-        "description": "Reflects the primary.light variable from the theme object"
-      },
-      "Contrast": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-      },
-      "Shades": {
-        "4p": {
-          "value": "#1976d20a",
-          "type": "color",
-          "description": "Used for hover states. The token represents 4% of the Primary/Main token"
-        },
-        "8p": {
-          "value": "#1976d214",
-          "type": "color",
-          "description": "Used for selected states. The token represents 8% of the Primary/Main token"
-        },
-        "12p": {
-          "value": "#1976d21f",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
-        },
-        "30p": {
-          "value": "#1976d24d",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 30% of the Primary/Main token"
-        },
-        "50p": {
-          "value": "#1976d280",
-          "type": "color",
-          "description": "Used for enabled state. The token represents 50% of the Primary/Main token"
-        }
-      }
+      "value": "#000000de",
+      "type": "color",
+      "description": "Reflects the text.primary variable from the theme object"
     },
     "Secondary": {
-      "Main": {
-        "value": "#9c27b0",
-        "type": "color",
-        "description": "Reflects the secondary.main variable from the theme object"
-      },
-      "Dark": {
-        "value": "#7b1fa2",
-        "type": "color",
-        "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
-      },
-      "Light": {
-        "value": "#ba68c8",
-        "type": "color",
-        "description": "Reflects the secondary.light variable from the theme object"
-      },
-      "Contrast": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-      },
-      "Shades": {
-        "4p": {
-          "value": "#9c27b00a",
-          "type": "color",
-          "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
-        },
-        "8p": {
-          "value": "#9c27b014",
-          "type": "color",
-          "description": "Used for selected states. The token represents 8% of the Secondary/Main token"
-        },
-        "12p": {
-          "value": "#9c27b01f",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
-        },
-        "30p": {
-          "value": "#9c27b04d",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 30% of the Secondary/Main token"
-        },
-        "50p": {
-          "value": "#9c27b080",
-          "type": "color",
-          "description": "Used for enabled state. The token represents 50% of the Secondary/Main token"
-        }
-      }
+      "value": "#00000099",
+      "type": "color",
+      "description": "Reflects the text.secondary variable from the theme object"
     },
-    "Action": {
-      "Hover (4p)": {
-        "value": "#0000000a",
-        "type": "color",
-        "description": "Reflects the action.hover variable from the theme object"
-      },
-      "Selected (8p)": {
-        "value": "#00000014",
-        "type": "color",
-        "description": "Reflects the action.selected variable from the theme object"
-      },
-      "Disabled Background (12p)": {
-        "value": "#0000001f",
-        "type": "color",
-        "description": "Reflects the action.disabledBackground variable from the theme object"
-      },
-      "Focus (12p)": {
-        "value": "#0000001f",
-        "type": "color",
-        "description": "Reflects the action.focus variable from the theme object"
-      },
-      "Disabled (26p)": {
-        "value": "#00000042",
-        "type": "color",
-        "description": "Reflects the action.disabled variable from the theme object"
-      },
-      "Active (54p)": {
-        "value": "#0000008a",
-        "type": "color",
-        "description": "Reflects the action.active variable from the theme object"
-      }
+    "Disabled": {
+      "value": "#00000061",
+      "type": "color",
+      "description": "Reflects the text.disabled variable from the theme object"
+    }
+  },
+  "Primary": {
+    "Main": {
+      "value": "#1976d2",
+      "type": "color",
+      "description": "Reflects the Primary/Main variable from the theme object"
     },
-    "Error": {
-      "Main": {
-        "value": "#d32f2f",
-        "type": "color",
-        "description": "Reflects the error.main variable from the theme object"
-      },
-      "Dark": {
-        "value": "#c62828",
-        "type": "color",
-        "description": "Used for hover states. Reflects the error.dark variable from the theme object"
-      },
-      "Light": {
-        "value": "#ef5350",
-        "type": "color",
-        "description": "Reflects the error.light variable from the theme object"
-      },
-      "Contrast": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the error.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-      },
-      "Shades": {
-        "4p": {
-          "value": "#d32f2f0a",
-          "type": "color",
-          "description": "Used for hover states. The token represents 4% of the Error/Main token"
-        },
-        "12p": {
-          "value": "#d32f2f1f",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 12% of the Error/Main token"
-        },
-        "30p": {
-          "value": "#d32f2f4d",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 30% of the Error/Main token"
-        },
-        "50p": {
-          "value": "#d32f2f80",
-          "type": "color",
-          "description": "Used for enabled state. The token represents 50% of the Error/Main token"
-        },
-        "160p": {
-          "value": "#541313",
-          "type": "color",
-          "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
-        },
-        "190p": {
-          "value": "#d32f2f1a",
-          "type": "color",
-          "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
-        }
-      }
+    "Dark": {
+      "value": "#1565c0",
+      "type": "color",
+      "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
-    "Warning": {
-      "Main": {
-        "value": "#ed6c02",
-        "type": "color",
-        "description": "Reflects the warning.main variable from the theme object"
-      },
-      "Dark": {
-        "value": "#e65100",
-        "type": "color",
-        "description": "Used for hover states. Reflects the warning.dark variable from the theme object"
-      },
-      "Light": {
-        "value": "#ff9800",
-        "type": "color",
-        "description": "Reflects the warning.light variable from the theme object"
-      },
-      "Contrast": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the warning.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-      },
-      "Shades": {
-        "4p": {
-          "value": "#ed6c020a",
-          "type": "color",
-          "description": "Used for hover states. The token represents 4% of the Warning/Main token"
-        },
-        "12p": {
-          "value": "#ed6c021f",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 12% of the Warning/Main token"
-        },
-        "30p": {
-          "value": "#ed6c024d",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 30% of the Warning/Main token"
-        },
-        "50p": {
-          "value": "#ed6c0280",
-          "type": "color",
-          "description": "Used for enabled state. The token represents 50% of the Warning/Main token"
-        },
-        "160p": {
-          "value": "#5f2b01",
-          "type": "color",
-          "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
-        },
-        "190p": {
-          "value": "#ed6c021a",
-          "type": "color",
-          "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
-        }
-      }
+    "Light": {
+      "value": "#42a5f5",
+      "type": "color",
+      "description": "Reflects the primary.light variable from the theme object"
     },
-    "Info": {
-      "Main": {
-        "value": "#0288d1",
-        "type": "color",
-        "description": "Reflects the info.main variable from the theme object"
-      },
-      "Dark": {
-        "value": "#01579b",
-        "type": "color",
-        "description": "Used for hover states. Reflects the info.dark variable from the theme object"
-      },
-      "Light": {
-        "value": "#03a9f4",
-        "type": "color",
-        "description": "Reflects the info.light variable from the theme object"
-      },
-      "Contrast": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the info.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-      },
-      "Shades": {
-        "4p": {
-          "value": "#0288d10a",
-          "type": "color",
-          "description": "Used for hover states. The token represents 4% of the Warning/Main token"
-        },
-        "12p": {
-          "value": "#0288d11f",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 12% of the Info/Main token"
-        },
-        "30p": {
-          "value": "#0288d14d",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 30% of the Warning/Main token"
-        },
-        "50p": {
-          "value": "#0288d180",
-          "type": "color",
-          "description": "Used for enabled state. The token represents 50% of the Warning/Main token"
-        },
-        "160p": {
-          "value": "#013654",
-          "type": "color",
-          "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
-        },
-        "190p": {
-          "value": "#0288d11a",
-          "type": "color",
-          "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
-        }
-      }
+    "Contrast": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
-    "Success": {
-      "Main": {
-        "value": "#2e7d32",
+    "Shades": {
+      "4p": {
+        "value": "#1976d20a",
         "type": "color",
-        "description": "Reflects the success.main variable from the theme object"
+        "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
-      "Dark": {
-        "value": "#1b5e20",
+      "8p": {
+        "value": "#1976d214",
         "type": "color",
-        "description": "Used for hover states. Reflects the success.dark variable from the theme object"
+        "description": "Used for selected states. The token represents 8% of the Primary/Main token"
       },
-      "Light": {
-        "value": "#4caf50",
+      "12p": {
+        "value": "#1976d21f",
         "type": "color",
-        "description": "Reflects the success.light variable from the theme object"
+        "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
       },
-      "Contrast": {
-        "value": "#ffffff",
+      "30p": {
+        "value": "#1976d24d",
         "type": "color",
-        "description": "Reflects the success.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+        "description": "Used for focus visible states. The token represents 30% of the Primary/Main token"
       },
-      "Shades": {
-        "4p": {
-          "value": "#2e7d320a",
-          "type": "color",
-          "description": "Used for hover states. The token represents 4% of the Success/Main token"
-        },
-        "12p": {
-          "value": "#2e7d321f",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 12% of the Success/Main token"
-        },
-        "30p": {
-          "value": "#2e7d324d",
-          "type": "color",
-          "description": "Used for focus visible states. The token represents 30% of the Success/Main token"
-        },
-        "50p": {
-          "value": "#2e7d3280",
-          "type": "color",
-          "description": "Used for enabled state. The token represents 50% of the Success/Main token"
-        },
-        "160p": {
-          "value": "#123214",
-          "type": "color",
-          "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
-        },
-        "190p": {
-          "value": "#2e7d321a",
-          "type": "color",
-          "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
-        }
+      "50p": {
+        "value": "#1976d280",
+        "type": "color",
+        "description": "Used for enabled state. The token represents 50% of the Primary/Main token"
       }
+    }
+  },
+  "Secondary": {
+    "Main": {
+      "value": "#9c27b0",
+      "type": "color",
+      "description": "Reflects the secondary.main variable from the theme object"
     },
-    "Background": {
-      "Paper": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the background.paper variable from the theme object"
-      },
-      "Default": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Reflects the background.default variable from the theme object"
-      }
+    "Dark": {
+      "value": "#7b1fa2",
+      "type": "color",
+      "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
-    "Other": {
-      "Divider": {
-        "value": "#0000001f",
+    "Light": {
+      "value": "#ba68c8",
+      "type": "color",
+      "description": "Reflects the secondary.light variable from the theme object"
+    },
+    "Contrast": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#9c27b00a",
         "type": "color",
-        "description": "Reflects the divider variable from the theme object"
+        "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
       },
-      "Outlined Border (23p)": {
-        "value": "#0000003b",
+      "8p": {
+        "value": "#9c27b014",
         "type": "color",
-        "description": "Border style for outlined variant components in resting state (Text Field, Select, Chips, etc)"
+        "description": "Used for selected states. The token represents 8% of the Secondary/Main token"
       },
-      "Backdrop Overlay": {
-        "value": "#00000080",
+      "12p": {
+        "value": "#9c27b01f",
         "type": "color",
-        "description": "Backdrop overlay background-color"
+        "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
       },
-      "Filled Input Background": {
-        "value": "#0000000f",
+      "30p": {
+        "value": "#9c27b04d",
         "type": "color",
-        "description": "Token for the background style for the Filled variant components (Text Field, Select, Multiline)."
+        "description": "Used for focus visible states. The token represents 30% of the Secondary/Main token"
       },
-      "Standard Input Line": {
-        "value": "#0000006b",
+      "50p": {
+        "value": "#9c27b080",
         "type": "color",
-        "description": "Token for the underline style for the Standard variant components (Text Field, Select, Multiline)."
-      },
-      "Snackbar": {
-        "value": "#323232",
-        "type": "color",
-        "description": "Snackbar background color"
-      },
-      "Rating Active": {
-        "value": "#ffb400",
-        "type": "color",
-        "description": "Active state color for Rating component"
-      },
-      "focus-ring-color": {
-        "value": "#005fcc",
-        "type": "color",
-        "description": "Reflects the default user agent color"
+        "description": "Used for enabled state. The token represents 50% of the Secondary/Main token"
       }
+    }
+  },
+  "Action": {
+    "Hover (4p)": {
+      "value": "#0000000a",
+      "type": "color",
+      "description": "Reflects the action.hover variable from the theme object"
+    },
+    "Selected (8p)": {
+      "value": "#00000014",
+      "type": "color",
+      "description": "Reflects the action.selected variable from the theme object"
+    },
+    "Disabled Background (12p)": {
+      "value": "#0000001f",
+      "type": "color",
+      "description": "Reflects the action.disabledBackground variable from the theme object"
+    },
+    "Focus (12p)": {
+      "value": "#0000001f",
+      "type": "color",
+      "description": "Reflects the action.focus variable from the theme object"
+    },
+    "Disabled (26p)": {
+      "value": "#00000042",
+      "type": "color",
+      "description": "Reflects the action.disabled variable from the theme object"
+    },
+    "Active (54p)": {
+      "value": "#0000008a",
+      "type": "color",
+      "description": "Reflects the action.active variable from the theme object"
+    }
+  },
+  "Error": {
+    "Main": {
+      "value": "#d32f2f",
+      "type": "color",
+      "description": "Reflects the error.main variable from the theme object"
+    },
+    "Dark": {
+      "value": "#c62828",
+      "type": "color",
+      "description": "Used for hover states. Reflects the error.dark variable from the theme object"
+    },
+    "Light": {
+      "value": "#ef5350",
+      "type": "color",
+      "description": "Reflects the error.light variable from the theme object"
+    },
+    "Contrast": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the error.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#d32f2f0a",
+        "type": "color",
+        "description": "Used for hover states. The token represents 4% of the Error/Main token"
+      },
+      "12p": {
+        "value": "#d32f2f1f",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Error/Main token"
+      },
+      "30p": {
+        "value": "#d32f2f4d",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 30% of the Error/Main token"
+      },
+      "50p": {
+        "value": "#d32f2f80",
+        "type": "color",
+        "description": "Used for enabled state. The token represents 50% of the Error/Main token"
+      },
+      "160p": {
+        "value": "#541313",
+        "type": "color",
+        "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
+      },
+      "190p": {
+        "value": "#d32f2f1a",
+        "type": "color",
+        "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
+      }
+    }
+  },
+  "Warning": {
+    "Main": {
+      "value": "#ed6c02",
+      "type": "color",
+      "description": "Reflects the warning.main variable from the theme object"
+    },
+    "Dark": {
+      "value": "#e65100",
+      "type": "color",
+      "description": "Used for hover states. Reflects the warning.dark variable from the theme object"
+    },
+    "Light": {
+      "value": "#ff9800",
+      "type": "color",
+      "description": "Reflects the warning.light variable from the theme object"
+    },
+    "Contrast": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the warning.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#ed6c020a",
+        "type": "color",
+        "description": "Used for hover states. The token represents 4% of the Warning/Main token"
+      },
+      "12p": {
+        "value": "#ed6c021f",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Warning/Main token"
+      },
+      "30p": {
+        "value": "#ed6c024d",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 30% of the Warning/Main token"
+      },
+      "50p": {
+        "value": "#ed6c0280",
+        "type": "color",
+        "description": "Used for enabled state. The token represents 50% of the Warning/Main token"
+      },
+      "160p": {
+        "value": "#5f2b01",
+        "type": "color",
+        "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
+      },
+      "190p": {
+        "value": "#ed6c021a",
+        "type": "color",
+        "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
+      }
+    }
+  },
+  "Info": {
+    "Main": {
+      "value": "#0288d1",
+      "type": "color",
+      "description": "Reflects the info.main variable from the theme object"
+    },
+    "Dark": {
+      "value": "#01579b",
+      "type": "color",
+      "description": "Used for hover states. Reflects the info.dark variable from the theme object"
+    },
+    "Light": {
+      "value": "#03a9f4",
+      "type": "color",
+      "description": "Reflects the info.light variable from the theme object"
+    },
+    "Contrast": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the info.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#0288d10a",
+        "type": "color",
+        "description": "Used for hover states. The token represents 4% of the Warning/Main token"
+      },
+      "12p": {
+        "value": "#0288d11f",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Info/Main token"
+      },
+      "30p": {
+        "value": "#0288d14d",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 30% of the Warning/Main token"
+      },
+      "50p": {
+        "value": "#0288d180",
+        "type": "color",
+        "description": "Used for enabled state. The token represents 50% of the Warning/Main token"
+      },
+      "160p": {
+        "value": "#013654",
+        "type": "color",
+        "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
+      },
+      "190p": {
+        "value": "#0288d11a",
+        "type": "color",
+        "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
+      }
+    }
+  },
+  "Success": {
+    "Main": {
+      "value": "#2e7d32",
+      "type": "color",
+      "description": "Reflects the success.main variable from the theme object"
+    },
+    "Dark": {
+      "value": "#1b5e20",
+      "type": "color",
+      "description": "Used for hover states. Reflects the success.dark variable from the theme object"
+    },
+    "Light": {
+      "value": "#4caf50",
+      "type": "color",
+      "description": "Reflects the success.light variable from the theme object"
+    },
+    "Contrast": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the success.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#2e7d320a",
+        "type": "color",
+        "description": "Used for hover states. The token represents 4% of the Success/Main token"
+      },
+      "12p": {
+        "value": "#2e7d321f",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Success/Main token"
+      },
+      "30p": {
+        "value": "#2e7d324d",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 30% of the Success/Main token"
+      },
+      "50p": {
+        "value": "#2e7d3280",
+        "type": "color",
+        "description": "Used for enabled state. The token represents 50% of the Success/Main token"
+      },
+      "160p": {
+        "value": "#123214",
+        "type": "color",
+        "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
+      },
+      "190p": {
+        "value": "#2e7d321a",
+        "type": "color",
+        "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
+      }
+    }
+  },
+  "Background": {
+    "Paper": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the background.paper variable from the theme object"
+    },
+    "Default": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Reflects the background.default variable from the theme object"
+    }
+  },
+  "Other": {
+    "Divider": {
+      "value": "#0000001f",
+      "type": "color",
+      "description": "Reflects the divider variable from the theme object"
+    },
+    "Outlined Border (23p)": {
+      "value": "#0000003b",
+      "type": "color",
+      "description": "Border style for outlined variant components in resting state (Text Field, Select, Chips, etc)"
+    },
+    "Backdrop Overlay": {
+      "value": "#00000080",
+      "type": "color",
+      "description": "Backdrop overlay background-color"
+    },
+    "Filled Input Background": {
+      "value": "#0000000f",
+      "type": "color",
+      "description": "Token for the background style for the Filled variant components (Text Field, Select, Multiline)."
+    },
+    "Standard Input Line": {
+      "value": "#0000006b",
+      "type": "color",
+      "description": "Token for the underline style for the Standard variant components (Text Field, Select, Multiline)."
+    },
+    "Snackbar": {
+      "value": "#323232",
+      "type": "color",
+      "description": "Snackbar background color"
+    },
+    "Rating Active": {
+      "value": "#ffb400",
+      "type": "color",
+      "description": "Active state color for Rating component"
+    },
+    "focus-ring-color": {
+      "value": "#005fcc",
+      "type": "color",
+      "description": "Reflects the default user agent color"
     }
   }
 }
