@@ -124,7 +124,7 @@
     }
   },
   "Action": {
-    "Hover (8p)": {
+    "Hover (4p)": {
       "value": "#ffffff14",
       "type": "color"
     },
@@ -144,7 +144,7 @@
       "value": "#ffffff4d",
       "type": "color"
     },
-    "Active (56p)": {
+    "Active (54p)": {
       "value": "#ffffff8f",
       "type": "color"
     }
@@ -341,6 +341,10 @@
       "value": "#121212",
       "type": "color",
       "description": "Reflects the background.paper variable from the theme object. In dark mode, raising the elevation also makes the surface lighter."
+    },
+    "Canvas": {
+      "value": "{Dark.Background.Canvas}",
+      "type": "color"
     }
   },
   "Other": {

@@ -130,12 +130,10 @@
       "Secondary.Shades.16p": "S:b37fd4244f448542bc7bc30c81b3cfcc9b7b8c0f,",
       "Secondary.Shades.30p": "S:2f0b8258deb27a2825e336c86d0a3946960bb255,",
       "Secondary.Shades.50p": "S:2c4d1033352ab124fc87e5fb7c8c8c3b890e5812,",
-      "Action.Hover (8p)": "S:c30086f319959a24ce078dcc903ccbe2585154e7,",
       "Action.Disabled Background (12p)": "S:7895bbc91ea24fd0bd908848d7ddb54064449f00,",
       "Action.Focus (12p)": "S:b734d4b1e3fef3ebfbcfadfb3ffe6445fa68d085,",
       "Action.Selected (16p)": "S:8429d36cace6fa01042b5c0f1aa8ff3be20a751d,",
       "Action.Disabled (30p)": "S:18bad6c4baf6a7497ecacaafd9a91b9e15b0f88a,",
-      "Action.Active (56p)": "S:d1d9237653acafd99723616f43a63b5cbe18541b,",
       "Error.Main": "S:0e7c828beabc11bd51aee70585cf9252173d3c8e,",
       "Error.Dark": "S:e74eee94bd5f3fe28abb60480ffbc46fb5835773,",
       "Error.Light": "S:41f75b60303aec62945eb219bf9247849d8a5354,",
@@ -184,7 +182,9 @@
       "Other.Standard Input Line": "S:63c91e0bf75ce9d80a4a8c2221d7139c350c0ec4,",
       "Other.Snackbar": "S:986f11e3f624b8cc6b91629c8d97dacd5a5429e3,",
       "Other.Rating Active": "S:172ea31b4cfd59ede98410b3ad150a536e03ae20,",
-      "Other.focus-ring-color": "S:ea9ee259cc6c0982f7c4690b5547b7da8fc60c2a,"
+      "Other.focus-ring-color": "S:ea9ee259cc6c0982f7c4690b5547b7da8fc60c2a,",
+      "Action.Active (54p)": "S:d1d9237653acafd99723616f43a63b5cbe18541b,",
+      "Action.Hover (4p)": "S:c30086f319959a24ce078dcc903ccbe2585154e7,"
     }
   }
 ]

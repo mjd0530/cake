@@ -372,6 +372,10 @@
       "value": "#ffffff",
       "type": "color",
       "description": "Reflects the background.default variable from the theme object"
+    },
+    "Canvas": {
+      "value": "{Light.Background.Canvas}",
+      "type": "color"
     }
   },
   "Other": {
