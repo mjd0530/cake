@@ -1,4 +1,8 @@
 {
+  "2": {
+    "value": "2",
+    "type": "borderWidth"
+  },
   "Light": {
     "Text": {
       "Primary": {
@@ -3094,5 +3098,13 @@
       "value": "none",
       "type": "textDecoration"
     }
+  },
+  "XXL": {
+    "value": "100",
+    "type": "borderRadius"
+  },
+  "xsml": {
+    "value": "4",
+    "type": "borderRadius"
   }
 }

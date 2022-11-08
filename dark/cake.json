@@ -82,11 +82,11 @@
   },
   "Secondary": {
     "Main": {
-      "value": "#ce93d8",
+      "value": "{Blue Gray.100}",
       "type": "color"
     },
     "Dark": {
-      "value": "#ab47bc",
+      "value": "{Blue Gray.200}",
       "type": "color"
     },
     "Light": {

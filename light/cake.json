@@ -67,12 +67,12 @@
   },
   "Secondary": {
     "Main": {
-      "value": "#9c27b0",
+      "value": "{Blue Gray.50}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "#7b1fa2",
+      "value": "{Blue Gray.100}",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
@@ -82,7 +82,7 @@
       "description": "Reflects the secondary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "#ffffff",
+      "value": "{Blue Gray.900}",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
