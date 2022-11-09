@@ -82,11 +82,11 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Blue Gray.100}",
+      "value": "#ce93d8",
       "type": "color"
     },
     "Dark": {
-      "value": "{Blue Gray.200}",
+      "value": "#ab47bc",
       "type": "color"
     },
     "Light": {
@@ -124,7 +124,7 @@
     }
   },
   "Action": {
-    "Hover (4p)": {
+    "Hover (8p)": {
       "value": "#ffffff14",
       "type": "color"
     },
@@ -144,7 +144,7 @@
       "value": "#ffffff4d",
       "type": "color"
     },
-    "Active (54p)": {
+    "Active (56p)": {
       "value": "#ffffff8f",
       "type": "color"
     }
@@ -341,10 +341,6 @@
       "value": "#121212",
       "type": "color",
       "description": "Reflects the background.paper variable from the theme object. In dark mode, raising the elevation also makes the surface lighter."
-    },
-    "Canvas": {
-      "value": "{Dark.Background.Canvas}",
-      "type": "color"
     }
   },
   "Other": {
