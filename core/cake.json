@@ -3099,7 +3099,7 @@
       "type": "textDecoration"
     }
   },
-  "XXL": {
+  "xxl": {
     "value": "100",
     "type": "borderRadius"
   },
