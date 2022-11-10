@@ -57,7 +57,7 @@
       "description": "Reflects the primary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "{Blue.50}",
+      "value": "#FFFFFF",
       "type": "color",
       "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
@@ -91,7 +91,7 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Cyan.700}",
+      "value": "{Cyan.800}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
@@ -106,7 +106,7 @@
       "description": "Reflects the secondary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "{Cyan.50}",
+      "value": "#FFFFFF",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
