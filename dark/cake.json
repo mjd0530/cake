@@ -39,43 +39,43 @@
   },
   "Primary": {
     "Main": {
-      "value": "#90caf9",
+      "value": "{Blue.200}",
       "type": "color"
     },
     "Dark": {
-      "value": "#42a5f5",
+      "value": "{Blue.400}",
       "type": "color"
     },
     "Light": {
-      "value": "#e3f2fd",
+      "value": "{Blue.50}",
       "type": "color"
     },
     "Contrast": {
-      "value": "#000000de",
+      "value": "{Background.Paper}",
       "type": "color"
     },
     "Shades": {
       "8p": {
-        "value": "#90caf914",
+        "value": "#17191B",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
       "12p": {
-        "value": "#90caf91f",
+        "value": "#1D2125",
         "type": "color",
         "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
       },
       "16p": {
-        "value": "#90caf929",
+        "value": "#262F37",
         "type": "color",
         "description": "Used for selected states. The token represents 16% of the Primary/Main token"
       },
       "30p": {
-        "value": "#90caf94d",
+        "value": "#384A58",
         "type": "color"
       },
       "50p": {
-        "value": "#90caf980",
+        "value": "#516E85",
         "type": "color"
       }
     }
@@ -86,39 +86,39 @@
       "type": "color"
     },
     "Dark": {
-      "value": "#ab47bc",
+      "value": "{Cyan.400}",
       "type": "color"
     },
     "Light": {
-      "value": "#f3e5f5",
+      "value": "{Cyan.100}",
       "type": "color"
     },
     "Contrast": {
-      "value": "#000000de",
+      "value": "{Background.Paper}",
       "type": "color"
     },
     "Shades": {
       "8p": {
-        "value": "#ce93d814",
+        "value": "#161A1A",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
       "12p": {
-        "value": "#ce93d81f",
+        "value": "#1B2324",
         "type": "color",
         "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
       },
       "16p": {
-        "value": "#ce93d829",
+        "value": "#233334",
         "type": "color",
         "description": "Used for selected states. The token represents 16% of the Secondary/Main token"
       },
       "30p": {
-        "value": "#ce93d84d",
+        "value": "#335053",
         "type": "color"
       },
       "50p": {
-        "value": "#ce93d880",
+        "value": "#49787E",
         "type": "color"
       }
     }
