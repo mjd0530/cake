@@ -1633,19 +1633,19 @@
       "type": "color"
     },
     "A100": {
-      "value": "#84ffff",
+      "value": "#F5FBFC",
       "type": "color"
     },
     "A200": {
-      "value": "#18ffff",
+      "value": "#EBF7F8",
       "type": "color"
     },
     "A400": {
-      "value": "#00e5ff",
+      "value": "#B3E0E5",
       "type": "color"
     },
     "A700": {
-      "value": "#00b8d4",
+      "value": "#7FCAD2",
       "type": "color"
     }
   },
@@ -1745,19 +1745,19 @@
       "type": "color"
     },
     "A100": {
-      "value": "#82b1ff",
+      "value": "#F5F8FC",
       "type": "color"
     },
     "A200": {
-      "value": "#448aff",
+      "value": "#EBF2F9",
       "type": "color"
     },
     "A400": {
-      "value": "#2979ff",
+      "value": "#E0EAF5",
       "type": "color"
     },
     "A700": {
-      "value": "#2962ff",
+      "value": "#B3CDE8",
       "type": "color"
     }
   },

@@ -82,7 +82,7 @@
   },
   "Secondary": {
     "Main": {
-      "value": "#ce93d8",
+      "value": "{Cyan.200}",
       "type": "color"
     },
     "Dark": {

@@ -42,48 +42,48 @@
   },
   "Primary": {
     "Main": {
-      "value": "#1976d2",
+      "value": "{Blue.700}",
       "type": "color",
       "description": "Reflects the Primary/Main variable from the theme object"
     },
     "Dark": {
-      "value": "#1565c0",
+      "value": "{Blue.900}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
     "Light": {
-      "value": "#42a5f5",
+      "value": "{Blue.100}",
       "type": "color",
       "description": "Reflects the primary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "#ffffff",
+      "value": "{Blue.50}",
       "type": "color",
       "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "Shades": {
       "8p": {
-        "value": "#1976d20a",
+        "value": "{Blue.A100}",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
       "12p": {
-        "value": "#1976d214",
+        "value": "{Blue.A200}",
         "type": "color",
         "description": "Used for selected states. The token represents 8% of the Primary/Main token"
       },
       "16p": {
-        "value": "#1976d21f",
+        "value": "{Blue.A400}",
         "type": "color",
         "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
       },
       "30p": {
-        "value": "#1976d24d",
+        "value": "{Blue.A700}",
         "type": "color",
         "description": "Used for focus visible states. The token represents 30% of the Primary/Main token"
       },
       "50p": {
-        "value": "#1976d280",
+        "value": "#7FAAD8",
         "type": "color",
         "description": "Used for enabled state. The token represents 50% of the Primary/Main token"
       }
@@ -91,43 +91,43 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Light.Secondary.Main}",
+      "value": "{Cyan.700}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "#7B1FA2",
+      "value": "{Cyan.900}",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
     "Light": {
-      "value": "#BA68C8",
+      "value": "{Cyan.100}",
       "type": "color",
       "description": "Reflects the secondary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "#FFFFFF",
+      "value": "{Cyan.50}",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "Shades": {
       "4p": {
-        "value": "#9c27b00a",
+        "value": "{Cyan.A100}",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
       },
       "8p": {
-        "value": "#9c27b014",
+        "value": "{Cyan.A200}",
         "type": "color",
         "description": "Used for selected states. The token represents 8% of the Secondary/Main token"
       },
       "12p": {
-        "value": "#9c27b01f",
+        "value": "{Cyan.A400}",
         "type": "color",
         "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
       },
       "30p": {
-        "value": "#9c27b04d",
+        "value": "{Cyan.A700}",
         "type": "color",
         "description": "Used for focus visible states. The token represents 30% of the Secondary/Main token"
       },
