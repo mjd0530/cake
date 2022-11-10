@@ -14,6 +14,30 @@
       "value": "#00000061",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
+    },
+    "Primary Shades": {
+      "4p": {
+        "value": "#0000000a",
+        "type": "color"
+      },
+      "12p": {
+        "value": "#ffffff1f",
+        "type": "color"
+      },
+      "30p": {
+        "value": "#ffffff4d",
+        "type": "color"
+      }
+    },
+    "Secondary Shades": {
+      "4p": {
+        "value": "#ffffff0a",
+        "type": "color"
+      },
+      "18p": {
+        "value": "#ffffff2e",
+        "type": "color"
+      }
     }
   },
   "Primary": {
@@ -38,17 +62,17 @@
       "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "Shades": {
-      "4p": {
+      "8p": {
         "value": "#1976d20a",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
-      "8p": {
+      "12p": {
         "value": "#1976d214",
         "type": "color",
         "description": "Used for selected states. The token represents 8% of the Primary/Main token"
       },
-      "12p": {
+      "16p": {
         "value": "#1976d21f",
         "type": "color",
         "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
@@ -72,7 +96,7 @@
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "{Blue Gray.100}",
+      "value": "{Grey.300}",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
@@ -88,7 +112,7 @@
     },
     "Shades": {
       "4p": {
-        "value": "#9c27b00a",
+        "value": "{Grey.100}",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
       },
@@ -115,12 +139,12 @@
     }
   },
   "Action": {
-    "Hover (4p)": {
+    "Hover (8p)": {
       "value": "#0000000a",
       "type": "color",
       "description": "Reflects the action.hover variable from the theme object"
     },
-    "Selected (8p)": {
+    "Selected (12p)": {
       "value": "#00000014",
       "type": "color",
       "description": "Reflects the action.selected variable from the theme object"
@@ -135,12 +159,12 @@
       "type": "color",
       "description": "Reflects the action.focus variable from the theme object"
     },
-    "Disabled (26p)": {
+    "Disabled (30p)": {
       "value": "#00000042",
       "type": "color",
       "description": "Reflects the action.disabled variable from the theme object"
     },
-    "Active (54p)": {
+    "Active (56p)": {
       "value": "#0000008a",
       "type": "color",
       "description": "Reflects the action.active variable from the theme object"

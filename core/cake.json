@@ -3,6 +3,18 @@
     "value": "2",
     "type": "borderWidth"
   },
+  "12": {
+    "value": "12",
+    "type": "sizing"
+  },
+  "16": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "24": {
+    "value": "24",
+    "type": "sizing"
+  },
   "Light": {
     "Text": {
       "Primary": {
@@ -2921,7 +2933,7 @@
         "fontSize": "{fontSize.4}",
         "letterSpacing": "{letterSpacing.10}",
         "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.uppercase}",
+        "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
@@ -2934,7 +2946,7 @@
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.8}",
         "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.uppercase}",
+        "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
@@ -2947,7 +2959,7 @@
         "fontSize": "{fontSize.2}",
         "letterSpacing": "{letterSpacing.10}",
         "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.uppercase}",
+        "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
