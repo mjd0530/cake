@@ -67,7 +67,7 @@
   },
   "Secondary": {
     "Main": {
-      "value": "#9c27b0",
+      "value": "#9C27B0",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },

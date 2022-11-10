@@ -91,17 +91,17 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Blue Gray.50}",
+      "value": "{Light.Secondary.Main}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "{Grey.300}",
+      "value": "#7B1FA2",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
     "Light": {
-      "value": "#ba68c8",
+      "value": "#BA68C8",
       "type": "color",
       "description": "Reflects the secondary.light variable from the theme object"
     },
@@ -112,7 +112,7 @@
     },
     "Shades": {
       "4p": {
-        "value": "{Grey.100}",
+        "value": "#9c27b00a",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
       },
