@@ -9,7 +9,8 @@
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "light/cake": "disabled",
-      "dark/cake": "enabled"
+      "dark/cake": "enabled",
+      "light/cake_Copy": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:0eee78623e9f799b80907b038f4bb578292dc494,",
@@ -105,7 +106,8 @@
       "core/radix.light": "disabled",
       "core/radix.dark": "disabled",
       "light/cake": "enabled",
-      "dark/cake": "disabled"
+      "dark/cake": "disabled",
+      "light/cake_Copy": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:14db4042b9c03744454afa3c1a4fde5ede70e8d5,",
