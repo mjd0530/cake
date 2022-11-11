@@ -163,7 +163,7 @@
       "type": "color"
     },
     "Contrast": {
-      "value": "#ffffff",
+      "value": "{Background.Paper}",
       "type": "color"
     },
     "Shades": {
