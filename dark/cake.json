@@ -56,7 +56,7 @@
     },
     "Shades": {
       "8p": {
-        "value": "#17191B",
+        "value": "#1D2125",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
@@ -98,8 +98,8 @@
       "type": "color"
     },
     "Shades": {
-      "8p": {
-        "value": "#161A1A",
+      "4p": {
+        "value": "#1B2324",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
