@@ -1720,6 +1720,10 @@
       "value": "#90caf9",
       "type": "color"
     },
+    "300": {
+      "value": "#5E9FDF",
+      "type": "color"
+    },
     "400": {
       "value": "#42a5f5",
       "type": "color"

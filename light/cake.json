@@ -91,28 +91,32 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Cyan.800}",
+      "value": "{Grey.200}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "{Cyan.900}",
+      "value": "{Grey.300}",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
     "Light": {
-      "value": "{Cyan.100}",
+      "value": "{Grey.50}",
       "type": "color",
       "description": "Reflects the secondary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "#FFFFFF",
+      "value": "{Blue Gray.900}",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
+    "onPaper": {
+      "value": "{Grey.900}",
+      "type": "color"
+    },
     "Shades": {
       "4p": {
-        "value": "{Cyan.A100}",
+        "value": "{Grey.50}",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
       },

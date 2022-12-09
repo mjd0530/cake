@@ -39,15 +39,15 @@
   },
   "Primary": {
     "Main": {
-      "value": "{Blue.200}",
+      "value": "{Blue.300}",
       "type": "color"
     },
     "Dark": {
-      "value": "{Blue.400}",
+      "value": "{Blue.200}",
       "type": "color"
     },
     "Light": {
-      "value": "{Blue.50}",
+      "value": "{Blue.A100}",
       "type": "color"
     },
     "Contrast": {
@@ -82,19 +82,23 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Cyan.200}",
+      "value": "{Grey.300}",
       "type": "color"
     },
     "Dark": {
-      "value": "{Cyan.400}",
+      "value": "{Grey.50}",
       "type": "color"
     },
     "Light": {
-      "value": "{Cyan.100}",
+      "value": "{Grey.300}",
       "type": "color"
     },
     "Contrast": {
       "value": "{Background.Paper}",
+      "type": "color"
+    },
+    "onPaper": {
+      "value": "{Grey.100}",
       "type": "color"
     },
     "Shades": {
