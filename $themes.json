@@ -46,7 +46,6 @@
       "Error.Dark": "S:e74eee94bd5f3fe28abb60480ffbc46fb5835773,",
       "Error.Light": "S:41f75b60303aec62945eb219bf9247849d8a5354,",
       "Error.Contrast": "S:1f863be47c044c67b13ea49612e6d5d39dbc62cf,",
-      "Error.Shades.8p": "S:2d48c3360388d29260cce787305e601ff880f302,",
       "Error.Shades.12p": "S:aaa9e8d368e1b4dfb138a4cb0781e7e4f12ff289,",
       "Error.Shades.30p": "S:90406bbd639adc21be5f2f8fe64c273004649cf7,",
       "Error.Shades.50p": "S:f377c19557ce7e40e6e69f1a301d0a878f8d17fb,",
@@ -93,7 +92,8 @@
       "Other.focus-ring-color": "S:ea9ee259cc6c0982f7c4690b5547b7da8fc60c2a,",
       "Action.Active (54p)": "S:d1d9237653acafd99723616f43a63b5cbe18541b,",
       "Action.Hover (4p)": "S:c30086f319959a24ce078dcc903ccbe2585154e7,",
-      "Secondary.Shades.4p": "S:425765cb3008780d2d057922883162220a252ec0,"
+      "Secondary.Shades.4p": "S:425765cb3008780d2d057922883162220a252ec0,",
+      "Error.Shades.4p": "S:2d48c3360388d29260cce787305e601ff880f302,"
     }
   },
   {

@@ -402,7 +402,7 @@
       "description": "Reflects the background.default variable from the theme object"
     },
     "Canvas": {
-      "value": "{Light.Background.Canvas}",
+      "value": "#F8FAFC",
       "type": "color"
     }
   },
@@ -447,5 +447,27 @@
       "type": "color",
       "description": "Reflects the default user agent color"
     }
+  },
+  "error": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "2",
+      "color": "{Error.Shades.30p}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "main": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "2",
+      "color": "{Light.Primary.Shades.30p}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }

@@ -171,7 +171,7 @@
       "type": "color"
     },
     "Shades": {
-      "8p": {
+      "4p": {
         "value": "#f4433614",
         "type": "color"
       },
@@ -345,6 +345,11 @@
       "value": "#121212",
       "type": "color",
       "description": "Reflects the background.paper variable from the theme object. In dark mode, raising the elevation also makes the surface lighter."
+    },
+    "Canvas": {
+      "value": "{Grey.900}",
+      "type": "color",
+      "description": "Reflects the background.paper variable from the theme object. In dark mode, raising the elevation also makes the surface lighter."
     }
   },
   "Other": {
@@ -383,5 +388,27 @@
       "type": "color",
       "description": "Reflects the default user agent color"
     }
+  },
+  "error": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "2",
+      "color": "{Error.Shades.50p}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "main": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "2",
+      "color": "{Dark.Primary.Shades.30p}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
