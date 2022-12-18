@@ -106,7 +106,7 @@
       "description": "Reflects the secondary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "{Blue Gray.900}",
+      "value": "Gray.900}",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
