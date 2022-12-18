@@ -2843,7 +2843,7 @@
     "Subtitle 1": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",
-        "fontWeight": "{fontWeights.roboto-1}",
+        "fontWeight": "{fontWeights.roboto-2}",
         "lineHeight": "{lineHeights.7}",
         "fontSize": "{fontSize.5}",
         "letterSpacing": "{letterSpacing.4}",
