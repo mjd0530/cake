@@ -56,6 +56,10 @@
       "type": "color",
       "description": "Reflects the primary.light variable from the theme object"
     },
+    "lightest": {
+      "value": "#F5F8FC",
+      "type": "color"
+    },
     "Contrast": {
       "value": "#FFFFFF",
       "type": "color",
@@ -190,6 +194,10 @@
       "type": "color",
       "description": "Reflects the error.light variable from the theme object"
     },
+    "lightest": {
+      "value": "#F9E9E9",
+      "type": "color"
+    },
     "Contrast": {
       "value": "#ffffff",
       "type": "color",
@@ -243,6 +251,10 @@
       "value": "#ff9800",
       "type": "color",
       "description": "Reflects the warning.light variable from the theme object"
+    },
+    "lightest": {
+      "value": "#FEF1E6",
+      "type": "color"
     },
     "Contrast": {
       "value": "#ffffff",
@@ -352,13 +364,17 @@
       "type": "color",
       "description": "Reflects the success.light variable from the theme object"
     },
+    "lightest": {
+      "value": "#EBF2EB",
+      "type": "color"
+    },
     "Contrast": {
       "value": "#ffffff",
       "type": "color",
       "description": "Reflects the success.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "Shades": {
-      "4p": {
+      "8p": {
         "value": "#2e7d320a",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Success/Main token"

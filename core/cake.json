@@ -2920,6 +2920,19 @@
       },
       "type": "typography"
     },
+    "Avatar Initials sm": {
+      "value": {
+        "fontFamily": "{fontFamilies.roboto}",
+        "fontWeight": "{fontWeights.roboto-1}",
+        "lineHeight": "{lineHeights.11}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.9}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
     "Badge Label": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",

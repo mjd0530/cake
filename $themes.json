@@ -4,13 +4,8 @@
     "name": "cake_dark",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "core/cake.light": "disabled",
       "core/cake.dark": "source",
-      "core/radix.light": "disabled",
-      "core/radix.dark": "disabled",
-      "light/cake": "disabled",
-      "dark/cake": "enabled",
-      "light/cake_Copy": "disabled"
+      "dark/cake": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:0eee78623e9f799b80907b038f4bb578292dc494,",
@@ -102,12 +97,7 @@
     "selectedTokenSets": {
       "core/cake": "enabled",
       "core/cake.light": "source",
-      "core/cake.dark": "disabled",
-      "core/radix.light": "disabled",
-      "core/radix.dark": "disabled",
-      "light/cake": "enabled",
-      "dark/cake": "disabled",
-      "light/cake_Copy": "disabled"
+      "light/cake": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:b043054cc4facedb961cbcfc5f43049885cb7335,",
@@ -165,7 +155,6 @@
       "Success.Dark": "S:b3cdcd40aa88dee28fff6e3fa082095e690e4bf3,",
       "Success.Light": "S:7816e18c1fca12050a066691a536e0ec399d0002,",
       "Success.Contrast": "S:47bfec53d7f2b4b4575c2782d28051e97c301cca,",
-      "Success.Shades.4p": "S:e8b6ce26f928eedffa21279c6c8d251d25583090,",
       "Success.Shades.12p": "S:015d78e725fecf14e10a3563dbd2147045eedf2d,",
       "Success.Shades.30p": "S:66369e4a93ac478925950de4c6af4b4a28fc4b11,",
       "Success.Shades.50p": "S:9d6129dec50ac61f66db4853abdf22f1527dc50b,",
@@ -646,7 +635,8 @@
       "Elevation.23": "S:966c03fa55e881d1b9ded4d8f566829b3024ee30,",
       "Elevation.24": "S:5b61fdad967894b31a2f72435fbd2702c88e794e,",
       "Elevation.Outlined Light": "S:747f2afe40ce6c0f8c3349fbb862ed6b44de0cd6,",
-      "Elevation.Outlined Dark": "S:8e17cd4b14e7b711e6442fbd7db5aa0c8b387c2a,"
+      "Elevation.Outlined Dark": "S:8e17cd4b14e7b711e6442fbd7db5aa0c8b387c2a,",
+      "Success.Shades.8p": "S:e8b6ce26f928eedffa21279c6c8d251d25583090,"
     }
   }
 ]
