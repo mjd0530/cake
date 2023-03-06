@@ -3139,5 +3139,9 @@
   "xsml": {
     "value": "4",
     "type": "borderRadius"
+  },
+  "sml": {
+    "value": "8",
+    "type": "borderRadius"
   }
 }
