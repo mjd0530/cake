@@ -62,6 +62,10 @@
         "value": "#1976d280",
         "type": "color",
         "description": "Used for enabled state. The token represents 50% of the Primary/Main token"
+      },
+      "16p": {
+        "value": "#E0EAF5",
+        "type": "color"
       }
     }
   },
