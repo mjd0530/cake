@@ -3101,19 +3101,6 @@
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
-    },
-    "Bottom Navigation Active Label": {
-      "value": {
-        "fontFamily": "{fontFamilies.roboto}",
-        "fontWeight": "{fontWeights.roboto-1}",
-        "lineHeight": "{lineHeights.10}",
-        "fontSize": "{fontSize.3}",
-        "letterSpacing": "{letterSpacing.8}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
     }
   },
   "textCase": {
