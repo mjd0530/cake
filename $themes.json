@@ -586,10 +586,6 @@
       "Typography.H4": "S:e1576a0439171b928aa2c789efdf90631178eb09,",
       "Typography.H5": "S:a370f9923c0c233e1328d358da33238e98a82ca5,",
       "Typography.H6": "S:76aedf94b79c22fdfc25740420da606dc4de2b18,",
-      "Typography.Body 1": "S:4745a145ad40465b941158a640f7364791b6f40b,",
-      "Typography.Body 2": "S:cd3426e54a039f5a98939a1c85bcc58b5b8bb581,",
-      "Typography.Subtitle 1": "S:71c477072669b4633baf2f8a7363c1fc37a1c766,",
-      "Typography.Subtitle 2": "S:078fdfcd3fd34f535f0141d30482f9f8ba94a9fa,",
       "Typography.Overline": "S:6b4e11392f6300200f0318efb7b8ce6ab4de6607,",
       "Typography.Caption": "S:c74f1a0123b185e9bb0ed2c9481bbbb0a76dc58e,",
       "Components.Alert Title": "S:652bc56775bf1d05de40bd2c9b05dc09c9c6a044,",
@@ -640,7 +636,11 @@
       "Error.lightest": "S:72ae6639f232fa388336b3964744de263d7df75b,",
       "Warning.lightest": "S:64e4b9860ba650cef7267181ee307304bd1d58bc,",
       "Success.lightest": "S:f695b42db1b3fdb21a3a74b8a5102b0900aad79f,",
-      "Red.300": "S:f97880af7b97980343ccfc764eb330f13ee518d7,"
+      "Red.300": "S:f97880af7b97980343ccfc764eb330f13ee518d7,",
+      "Typography.Subtitle1": "S:71c477072669b4633baf2f8a7363c1fc37a1c766,",
+      "Typography.Body2": "S:cd3426e54a039f5a98939a1c85bcc58b5b8bb581,",
+      "Typography.Body1": "S:4745a145ad40465b941158a640f7364791b6f40b,",
+      "Typography.Subtitle2": "S:078fdfcd3fd34f535f0141d30482f9f8ba94a9fa,"
     }
   }
 ]

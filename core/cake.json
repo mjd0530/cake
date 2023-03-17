@@ -2818,7 +2818,7 @@
       },
       "type": "typography"
     },
-    "Body 1": {
+    "Body1": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",
         "fontWeight": "{fontWeights.roboto-1}",
@@ -2831,7 +2831,7 @@
       },
       "type": "typography"
     },
-    "Subtitle 1": {
+    "Subtitle1": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",
         "fontWeight": "{fontWeights.roboto-2}",
@@ -2844,7 +2844,7 @@
       },
       "type": "typography"
     },
-    "Body 2": {
+    "Body2": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",
         "fontWeight": "{fontWeights.roboto-1}",
@@ -2857,7 +2857,7 @@
       },
       "type": "typography"
     },
-    "Subtitle 2": {
+    "Subtitle2": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",
         "fontWeight": "{fontWeights.roboto-2}",
