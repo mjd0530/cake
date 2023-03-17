@@ -1253,11 +1253,11 @@
   },
   "Red": {
     "50": {
-      "value": "#feebee",
+      "value": "#ffebee",
       "type": "color"
     },
     "100": {
-      "value": "#fecdd2",
+      "value": "#ffcdd2",
       "type": "color"
     },
     "200": {
@@ -1265,7 +1265,7 @@
       "type": "color"
     },
     "300": {
-      "value": "#E57373",
+      "value": "#e57373",
       "type": "color"
     },
     "400": {
@@ -1273,7 +1273,7 @@
       "type": "color"
     },
     "500": {
-      "value": "#f44336",
+      "value": "#e53935",
       "type": "color"
     },
     "600": {
@@ -1281,7 +1281,7 @@
       "type": "color"
     },
     "700": {
-      "value": "#D32F2F",
+      "value": "#d32f2f",
       "type": "color"
     },
     "800": {
