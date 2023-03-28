@@ -4,7 +4,6 @@
     "name": "cake_dark",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "core/cake.dark": "source",
       "dark/cake": "enabled"
     },
     "$figmaStyleReferences": {
@@ -96,8 +95,7 @@
     "name": "cake.light",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "core/cake.light": "source",
-      "light/cake": "enabled"
+      "light/cake.light": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:1a710fb3c7e963d081a5ecc90048b4c708de7a78,",
