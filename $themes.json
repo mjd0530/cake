@@ -4,8 +4,7 @@
     "name": "cake.light",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "light/cake.light": "enabled",
-      "dark/cake.dark": "disabled"
+      "light/cake.light": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:1a710fb3c7e963d081a5ecc90048b4c708de7a78,",
@@ -641,5 +640,41 @@
       "Secondary.Shades.4p": "S:425765cb3008780d2d057922883162220a252ec0,",
       "Error.Shades.4p": "S:2d48c3360388d29260cce787305e601ff880f302,"
     }
+  },
+  {
+    "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
+    "name": "radix.light",
+    "selectedTokenSets": {
+      "core/radix": "source",
+      "light/radix.light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3112568b676b92753b45364b1ff1d98204ec41c2",
+    "name": "chakra.light",
+    "selectedTokenSets": {
+      "light/chakra.light": "enabled",
+      "core/chakra": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
+    "name": "ant.light",
+    "selectedTokenSets": {
+      "core/ant": "source",
+      "light/ant.light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a9e637838192a470931a20d34f0c4588bff9db31",
+    "name": "tailwind.light",
+    "selectedTokenSets": {
+      "light/tailwind.light": "enabled",
+      "core/tailwind": "source"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

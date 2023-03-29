@@ -1,12 +1,12 @@
 {
   "Text": {
     "Primary": {
-      "value": "{Grey.900}",
+      "value": "{Grey.50}",
       "type": "color",
       "description": "Reflects the text.primary variable from the theme object"
     },
     "Secondary": {
-      "value": "#00000099",
+      "value": "{Grey.200}",
       "type": "color",
       "description": "Reflects the text.secondary variable from the theme object"
     },
@@ -115,7 +115,7 @@
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "onPaper": {
-      "value": "{Grey.900}",
+      "value": "{Grey.50}",
       "type": "color"
     },
     "Shades": {
@@ -180,7 +180,7 @@
   },
   "Error": {
     "Main": {
-      "value": "#d32f2f",
+      "value": "{Red.300}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
@@ -195,7 +195,7 @@
       "description": "Reflects the error.light variable from the theme object"
     },
     "lightest": {
-      "value": "#F9E9E9",
+      "value": "{Red.50}",
       "type": "color"
     },
     "Contrast": {
@@ -238,7 +238,7 @@
   },
   "Warning": {
     "Main": {
-      "value": "#ed6c02",
+      "value": "{Deep Orange.700}",
       "type": "color",
       "description": "Reflects the warning.main variable from the theme object"
     },

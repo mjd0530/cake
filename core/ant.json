@@ -1,1 +1,772 @@
-{}
+{
+  "Slate": {
+    "gray-1": {
+      "value": "#f8fafc",
+      "type": "color",
+      "description": "Light background"
+    },
+    "gray-2": {
+      "value": "#f1f5f9",
+      "type": "color",
+      "description": "Table Header"
+    },
+    "gray-3": {
+      "value": "#e2e8f0",
+      "type": "color",
+      "description": "Background"
+    },
+    "gray-4": {
+      "value": "#cbd5e1",
+      "type": "color",
+      "description": "Dividers"
+    },
+    "gray-5": {
+      "value": "#94a3b8",
+      "type": "color",
+      "description": "Border"
+    },
+    "gray-6": {
+      "value": "#64748b",
+      "type": "color",
+      "description": "Disable"
+    },
+    "gray-7": {
+      "value": "#475569",
+      "type": "color",
+      "description": "Secondary Text"
+    },
+    "gray-8": {
+      "value": "#334155",
+      "type": "color",
+      "description": "-"
+    },
+    "gray-9": {
+      "value": "#1e293b",
+      "type": "color",
+      "description": "-"
+    },
+    "gray-10": {
+      "value": "#0f172a",
+      "type": "color",
+      "description": "Title / Primary Text"
+    }
+  },
+  "Primary": {
+    "primary-1": {
+      "value": "#e6f7ff",
+      "type": "color",
+      "description": "Selected background color"
+    },
+    "primary-2": {
+      "value": "#bae7ff",
+      "type": "color",
+      "description": "-"
+    },
+    "primary-3": {
+      "value": "#91d5ff",
+      "type": "color",
+      "description": "Border"
+    },
+    "primary-4": {
+      "value": "#69c0ff",
+      "type": "color",
+      "description": "-"
+    },
+    "primary-5": {
+      "value": "#40a9ff",
+      "type": "color",
+      "description": "Hover"
+    },
+    "primary-6": {
+      "value": "#1890ff",
+      "type": "color",
+      "description": "Normal"
+    },
+    "primary-7": {
+      "value": "#096dd9",
+      "type": "color",
+      "description": "Click"
+    },
+    "primary-8": {
+      "value": "#0050b3",
+      "type": "color",
+      "description": "-"
+    },
+    "primary-9": {
+      "value": "#003a8c",
+      "type": "color",
+      "description": "-"
+    },
+    "primary-10": {
+      "value": "#002766",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Dust Red": {
+    "red-1": {
+      "value": "#fff1f0",
+      "type": "color",
+      "description": "Error background"
+    },
+    "red-2": {
+      "value": "#ffccc7",
+      "type": "color",
+      "description": "-"
+    },
+    "red-3": {
+      "value": "#ffa39e",
+      "type": "color",
+      "description": "Error border"
+    },
+    "red-4": {
+      "value": "#ff7875",
+      "type": "color",
+      "description": "Error hover"
+    },
+    "red-5": {
+      "value": "#ff4d4f",
+      "type": "color",
+      "description": "Error normal"
+    },
+    "red-6": {
+      "value": "#f5222d",
+      "type": "color",
+      "description": "Error click"
+    },
+    "red-7": {
+      "value": "#cf1322",
+      "type": "color",
+      "description": "-"
+    },
+    "red-8": {
+      "value": "#a8071a",
+      "type": "color",
+      "description": "-"
+    },
+    "red-9": {
+      "value": "#820014",
+      "type": "color",
+      "description": "-"
+    },
+    "red-10": {
+      "value": "#5c0011",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Volcano": {
+    "volcano-1": {
+      "value": "#fff2e8",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "volcano-2": {
+      "value": "#ffd8bf",
+      "type": "color",
+      "description": "-"
+    },
+    "volcano-3": {
+      "value": "#ffbb96",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "volcano-4": {
+      "value": "#ff9c6e",
+      "type": "color",
+      "description": "-"
+    },
+    "volcano-5": {
+      "value": "#ff7a45",
+      "type": "color",
+      "description": "-"
+    },
+    "volcano-6": {
+      "value": "#fa541c",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "volcano-7": {
+      "value": "#d4380d",
+      "type": "color",
+      "description": "-"
+    },
+    "volcano-8": {
+      "value": "#ad2102",
+      "type": "color",
+      "description": "-"
+    },
+    "volcano-9": {
+      "value": "#871400",
+      "type": "color",
+      "description": "-"
+    },
+    "volcano-10": {
+      "value": "#610b00",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Sunset Orange": {
+    "orange-1": {
+      "value": "#fff7e6",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "orange-2": {
+      "value": "#ffe7ba",
+      "type": "color",
+      "description": "-"
+    },
+    "orange-3": {
+      "value": "#ffd591",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "orange-4": {
+      "value": "#ffc069",
+      "type": "color",
+      "description": "-"
+    },
+    "orange-5": {
+      "value": "#ffa940",
+      "type": "color",
+      "description": "-"
+    },
+    "orange-6": {
+      "value": "#fa8c16",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "orange-7": {
+      "value": "#d46b08",
+      "type": "color",
+      "description": "-"
+    },
+    "orange-8": {
+      "value": "#ad4e00",
+      "type": "color",
+      "description": "-"
+    },
+    "orange-9": {
+      "value": "#873800",
+      "type": "color",
+      "description": "-"
+    },
+    "orange-10": {
+      "value": "#612500",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Calendula Gold": {
+    "gold-1": {
+      "value": "#fffbe6",
+      "type": "color",
+      "description": "Warning background"
+    },
+    "gold-2": {
+      "value": "#fff1b8",
+      "type": "color",
+      "description": "-"
+    },
+    "gold-3": {
+      "value": "#ffe58f",
+      "type": "color",
+      "description": "Warning border"
+    },
+    "gold-4": {
+      "value": "#ffd666",
+      "type": "color",
+      "description": "-"
+    },
+    "gold-5": {
+      "value": "#ffc53d",
+      "type": "color",
+      "description": "Warning hover"
+    },
+    "gold-6": {
+      "value": "#faad14",
+      "type": "color",
+      "description": "Warning normal"
+    },
+    "gold-7": {
+      "value": "#d48806",
+      "type": "color",
+      "description": "Warning click"
+    },
+    "gold-8": {
+      "value": "#ad6800",
+      "type": "color",
+      "description": "-"
+    },
+    "gold-9": {
+      "value": "#874d00",
+      "type": "color",
+      "description": "-"
+    },
+    "gold-10": {
+      "value": "#613400",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Sunrise Yellow": {
+    "yellow-1": {
+      "value": "#feffe6",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "yellow-2": {
+      "value": "#ffffb8",
+      "type": "color",
+      "description": "-"
+    },
+    "yellow-3": {
+      "value": "#fffb8f",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "yellow-4": {
+      "value": "#fff566",
+      "type": "color",
+      "description": "-"
+    },
+    "yellow-5": {
+      "value": "#ffec3d",
+      "type": "color",
+      "description": "-"
+    },
+    "yellow-6": {
+      "value": "#fadb14",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "yellow-7": {
+      "value": "#d4b106",
+      "type": "color",
+      "description": "-"
+    },
+    "yellow-8": {
+      "value": "#ad8b00",
+      "type": "color",
+      "description": "-"
+    },
+    "yellow-9": {
+      "value": "#876800",
+      "type": "color",
+      "description": "-"
+    },
+    "yellow-10": {
+      "value": "#614700",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Lime": {
+    "lime-1": {
+      "value": "#fcffe6",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "lime-2": {
+      "value": "#f4ffb8",
+      "type": "color",
+      "description": "-"
+    },
+    "lime-3": {
+      "value": "#eaff8f",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "lime-4": {
+      "value": "#d3f261",
+      "type": "color",
+      "description": "-"
+    },
+    "lime-5": {
+      "value": "#bae637",
+      "type": "color",
+      "description": "-"
+    },
+    "lime-6": {
+      "value": "#a0d911",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "lime-7": {
+      "value": "#7cb305",
+      "type": "color",
+      "description": "-"
+    },
+    "lime-8": {
+      "value": "#5b8c00",
+      "type": "color",
+      "description": "-"
+    },
+    "lime-9": {
+      "value": "#3f6600",
+      "type": "color",
+      "description": "-"
+    },
+    "lime-10": {
+      "value": "#254000",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Polar Green": {
+    "green-1": {
+      "value": "#f6ffed",
+      "type": "color",
+      "description": "Success background"
+    },
+    "green-2": {
+      "value": "#d9f7be",
+      "type": "color",
+      "description": "-"
+    },
+    "green-3": {
+      "value": "#b7eb8f",
+      "type": "color",
+      "description": "Success border"
+    },
+    "green-4": {
+      "value": "#95de64",
+      "type": "color",
+      "description": "-"
+    },
+    "green-5": {
+      "value": "#73d13d",
+      "type": "color",
+      "description": "Success hover"
+    },
+    "green-6": {
+      "value": "#52c41a",
+      "type": "color",
+      "description": "Success normal"
+    },
+    "green-7": {
+      "value": "#389e0d",
+      "type": "color",
+      "description": "Success click"
+    },
+    "green-8": {
+      "value": "#237804",
+      "type": "color",
+      "description": "-"
+    },
+    "green-9": {
+      "value": "#135200",
+      "type": "color",
+      "description": "-"
+    },
+    "green-10": {
+      "value": "#092b00",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Cyan": {
+    "cyan-1": {
+      "value": "#e6fffb",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "cyan-2": {
+      "value": "#b5f5ec",
+      "type": "color",
+      "description": "-"
+    },
+    "cyan-3": {
+      "value": "#87e8de",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "cyan-4": {
+      "value": "#5cdbd3",
+      "type": "color",
+      "description": "-"
+    },
+    "cyan-5": {
+      "value": "#36cfc9",
+      "type": "color",
+      "description": "-"
+    },
+    "cyan-6": {
+      "value": "#13c2c2",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "cyan-7": {
+      "value": "#08979c",
+      "type": "color",
+      "description": "-"
+    },
+    "cyan-8": {
+      "value": "#006d75",
+      "type": "color",
+      "description": "-"
+    },
+    "cyan-9": {
+      "value": "#00474f",
+      "type": "color",
+      "description": "-"
+    },
+    "cyan-10": {
+      "value": "#002329",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Daybreak Blue": {
+    "blue-1": {
+      "value": "#e6f7ff",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "blue-2": {
+      "value": "#bae7ff",
+      "type": "color",
+      "description": "-"
+    },
+    "blue-3": {
+      "value": "#91d5ff",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "blue-4": {
+      "value": "#69c0ff",
+      "type": "color",
+      "description": "-"
+    },
+    "blue-5": {
+      "value": "#40a9ff",
+      "type": "color",
+      "description": "-"
+    },
+    "blue-6": {
+      "value": "#1890ff",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "blue-7": {
+      "value": "#096dd9",
+      "type": "color",
+      "description": "-"
+    },
+    "blue-8": {
+      "value": "#0050b3",
+      "type": "color",
+      "description": "-"
+    },
+    "blue-9": {
+      "value": "#003a8c",
+      "type": "color",
+      "description": "-"
+    },
+    "blue-10": {
+      "value": "#002766",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Geek Blue": {
+    "geekblue-1": {
+      "value": "#f0f5ff",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "geekblue-2": {
+      "value": "#d6e4ff",
+      "type": "color",
+      "description": "-"
+    },
+    "geekblue-3": {
+      "value": "#adc6ff",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "geekblue-4": {
+      "value": "#85a5ff",
+      "type": "color",
+      "description": "-"
+    },
+    "geekblue-5": {
+      "value": "#597ef7",
+      "type": "color",
+      "description": "-"
+    },
+    "geekblue-6": {
+      "value": "#2f54eb",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "geekblue-7": {
+      "value": "#1d39c4",
+      "type": "color",
+      "description": "-"
+    },
+    "geekblue-8": {
+      "value": "#10239e",
+      "type": "color",
+      "description": "-"
+    },
+    "geekblue-9": {
+      "value": "#061178",
+      "type": "color",
+      "description": "-"
+    },
+    "geekblue-10": {
+      "value": "#030852",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Golden Purple": {
+    "purple-1": {
+      "value": "#f9f0ff",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "purple-2": {
+      "value": "#efdbff",
+      "type": "color",
+      "description": "-"
+    },
+    "purple-3": {
+      "value": "#d3adf7",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "purple-4": {
+      "value": "#b37feb",
+      "type": "color",
+      "description": "-"
+    },
+    "purple-5": {
+      "value": "#9254de",
+      "type": "color",
+      "description": "-"
+    },
+    "purple-6": {
+      "value": "#722ed1",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "purple-7": {
+      "value": "#531dab",
+      "type": "color",
+      "description": "-"
+    },
+    "purple-8": {
+      "value": "#391085",
+      "type": "color",
+      "description": "-"
+    },
+    "purple-9": {
+      "value": "#22075e",
+      "type": "color",
+      "description": "-"
+    },
+    "purple-10": {
+      "value": "#120338",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Magenta": {
+    "magenta-1": {
+      "value": "#fff0f6",
+      "type": "color",
+      "description": "Colorful tag background"
+    },
+    "magenta-2": {
+      "value": "#ffd6e7",
+      "type": "color",
+      "description": "-"
+    },
+    "magenta-3": {
+      "value": "#ffadd2",
+      "type": "color",
+      "description": "Colorful tag border"
+    },
+    "magenta-4": {
+      "value": "#ff85c0",
+      "type": "color",
+      "description": "-"
+    },
+    "magenta-5": {
+      "value": "#f759ab",
+      "type": "color",
+      "description": "-"
+    },
+    "magenta-6": {
+      "value": "#eb2f96",
+      "type": "color",
+      "description": "Colorful tag normal"
+    },
+    "magenta-7": {
+      "value": "#c41d7f",
+      "type": "color",
+      "description": "-"
+    },
+    "magenta-8": {
+      "value": "#9e1068",
+      "type": "color",
+      "description": "-"
+    },
+    "magenta-9": {
+      "value": "#780650",
+      "type": "color",
+      "description": "-"
+    },
+    "magenta-10": {
+      "value": "#520339",
+      "type": "color",
+      "description": "-"
+    }
+  },
+  "Extra": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "White text (in Dark Theme)"
+    },
+    "component-background": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Popup menus background"
+    },
+    "layout-body-background": {
+      "value": "#f0f2f5",
+      "type": "color",
+      "description": "Layout background color"
+    },
+    "layout-header-background": {
+      "value": "#001529",
+      "type": "color",
+      "description": "Menu background 1 level"
+    },
+    "menu-dark-inline-submenu-bg": {
+      "value": "#000c17",
+      "type": "color",
+      "description": "Menu background 2 level"
+    },
+    "tooltip-bg": {
+      "value": "#000000bf",
+      "type": "color",
+      "description": "Tooltip background"
+    },
+    "segmented-selected-bg": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Selected Segmented item bg"
+    },
+    "segmented-bg": {
+      "value": "#0000000a",
+      "type": "color",
+      "description": "Segmented group bg"
+    }
+  }
+}
