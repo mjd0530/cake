@@ -2095,19 +2095,6 @@
       },
       "type": "typography"
     },
-    "Subtitle1": {
-      "value": {
-        "fontFamily": "{fontFamilies.roboto}",
-        "fontWeight": "{fontWeights.roboto-2}",
-        "lineHeight": "{lineHeights.7}",
-        "fontSize": "{fontSize.5}",
-        "letterSpacing": "{letterSpacing.4}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
     "Body2": {
       "value": {
         "fontFamily": "{fontFamilies.roboto}",
@@ -2115,6 +2102,19 @@
         "lineHeight": "{lineHeights.6}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.5}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Subtitle1": {
+      "value": {
+        "fontFamily": "{fontFamilies.roboto}",
+        "fontWeight": "{fontWeights.roboto-2}",
+        "lineHeight": "{lineHeights.7}",
+        "fontSize": "{fontSize.5}",
+        "letterSpacing": "{letterSpacing.4}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"

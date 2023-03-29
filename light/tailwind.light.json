@@ -1,17 +1,17 @@
 {
   "Text": {
     "Primary": {
-      "value": "{Grey.900}",
+      "value": "{gray.900}",
       "type": "color",
       "description": "Reflects the text.primary variable from the theme object"
     },
     "Secondary": {
-      "value": "#00000099",
+      "value": "{gray.700}",
       "type": "color",
       "description": "Reflects the text.secondary variable from the theme object"
     },
     "Disabled": {
-      "value": "#00000061",
+      "value": "{Slate.gray-4}",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
     },
@@ -42,26 +42,26 @@
   },
   "Primary": {
     "Main": {
-      "value": "{Blue.700}",
+      "value": "{blue.800}",
       "type": "color",
       "description": "Reflects the Primary/Main variable from the theme object"
     },
     "Dark": {
-      "value": "{Blue.900}",
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
     "Light": {
-      "value": "{Blue.100}",
+      "value": "{Daybreak Blue.blue-2}",
       "type": "color",
       "description": "Reflects the primary.light variable from the theme object"
     },
     "lightest": {
-      "value": "#F5F8FC",
+      "value": "{blue.50}",
       "type": "color"
     },
     "Contrast": {
-      "value": "#FFFFFF",
+      "value": "{Extra.white}",
       "type": "color",
       "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
@@ -95,27 +95,27 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Grey.200}",
+      "value": "{gray.200}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "{Grey.300}",
+      "value": "{gray.300}",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
     "Light": {
-      "value": "{Grey.50}",
+      "value": "{gray.50}",
       "type": "color",
       "description": "Reflects the secondary.light variable from the theme object"
     },
     "Contrast": {
-      "value": "Gray.900}",
+      "value": "{gray.900}",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "onPaper": {
-      "value": "{Grey.900}",
+      "value": "{blackAlpha.900}",
       "type": "color"
     },
     "Shades": {
@@ -180,26 +180,26 @@
   },
   "Error": {
     "Main": {
-      "value": "#d32f2f",
+      "value": "{red.700}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
     "Dark": {
-      "value": "#c62828",
+      "value": "{red.900}",
       "type": "color",
       "description": "Used for hover states. Reflects the error.dark variable from the theme object"
     },
     "Light": {
-      "value": "#ef5350",
+      "value": "{red.200}",
       "type": "color",
       "description": "Reflects the error.light variable from the theme object"
     },
     "lightest": {
-      "value": "#F9E9E9",
+      "value": "{red.50}",
       "type": "color"
     },
     "Contrast": {
-      "value": "#ffffff",
+      "value": "{white}",
       "type": "color",
       "description": "Reflects the error.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
@@ -238,7 +238,7 @@
   },
   "Warning": {
     "Main": {
-      "value": "#ed6c02",
+      "value": "{orange.700}",
       "type": "color",
       "description": "Reflects the warning.main variable from the theme object"
     },
@@ -253,7 +253,7 @@
       "description": "Reflects the warning.light variable from the theme object"
     },
     "lightest": {
-      "value": "#FEF1E6",
+      "value": "{orange.50}",
       "type": "color"
     },
     "Contrast": {
@@ -350,7 +350,7 @@
   },
   "Success": {
     "Main": {
-      "value": "#2e7d32",
+      "value": "{green.700}",
       "type": "color",
       "description": "Reflects the success.main variable from the theme object"
     },
@@ -365,7 +365,7 @@
       "description": "Reflects the success.light variable from the theme object"
     },
     "lightest": {
-      "value": "#EBF2EB",
+      "value": "{green.50}",
       "type": "color"
     },
     "Contrast": {
@@ -418,7 +418,7 @@
       "description": "Reflects the background.default variable from the theme object"
     },
     "Canvas": {
-      "value": "#F8FAFC",
+      "value": "{gray.50}",
       "type": "color"
     }
   },
