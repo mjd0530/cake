@@ -10,6 +10,13 @@
     "light/ant.light",
     "light/tailwind.light",
     "dark/cake.dark",
-    "core/tailwind"
+    "core/tailwind",
+    "core/cake.dark",
+    "core/cake.light",
+    "core/radix.dark",
+    "core/radix.light",
+    "dark/cake",
+    "light/cake",
+    "light/cake_Copy"
   ]
 }

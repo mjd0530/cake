@@ -922,5 +922,15 @@
       "value": "#881337",
       "type": "color"
     }
+  },
+  "common": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    }
   }
 }
