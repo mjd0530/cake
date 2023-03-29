@@ -1,7 +1,6 @@
 {
   "Text": {
     "Primary": {
-      "value": "{Grey.900}",
       "type": "color",
       "description": "Reflects the text.primary variable from the theme object"
     },

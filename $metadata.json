@@ -1,15 +1,5 @@
 {
   "tokenSetOrder": [
     "core/cake",
-    "core/radix",
-    "core/chakra",
-    "core/ant",
-    "light/cake.light",
-    "light/radix.light",
-    "light/chakra.light",
-    "light/ant.light",
-    "light/tailwind.light",
-    "dark/cake.dark",
-    "core/tailwind"
   ]
 }
