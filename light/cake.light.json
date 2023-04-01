@@ -15,6 +15,10 @@
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
     },
+    "onBold": {
+      "value": "{Grey.100}",
+      "type": "color"
+    },
     "Primary Shades": {
       "4p": {
         "value": "#0000000a",
@@ -419,6 +423,26 @@
     },
     "Canvas": {
       "value": "#F8FAFC",
+      "type": "color"
+    },
+    "darkest": {
+      "value": "{Grey.700}",
+      "type": "color"
+    },
+    "dark": {
+      "value": "{Grey.500}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{Grey.300}",
+      "type": "color"
+    },
+    "onDisabled": {
+      "value": "{Grey.500}",
+      "type": "color"
+    },
+    "Bold": {
+      "value": "{Grey.900}",
       "type": "color"
     }
   },
