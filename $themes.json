@@ -551,11 +551,48 @@
     }
   },
   {
+    "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
+    "name": "radix.light",
+    "selectedTokenSets": {
+      "core/radix": "source",
+      "light/radix.light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3112568b676b92753b45364b1ff1d98204ec41c2",
+    "name": "chakra.light",
+    "selectedTokenSets": {
+      "light/chakra.light": "enabled",
+      "core/chakra": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
+    "name": "ant.light",
+    "selectedTokenSets": {
+      "core/ant": "source",
+      "light/ant.light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a9e637838192a470931a20d34f0c4588bff9db31",
+    "name": "tailwind.light",
+    "selectedTokenSets": {
+      "light/tailwind.light": "enabled",
+      "core/tailwind": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "c32d38884a18ad2ad71e0c3cf9d81d8778f26840",
     "name": "cake_dark",
     "selectedTokenSets": {
       "core/cake": "source",
-      "dark/cake.dark": "enabled"
+      "dark/cake.dark": "enabled",
+      "core/radix.dark": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:0eee78623e9f799b80907b038f4bb578292dc494,",
@@ -642,38 +679,11 @@
     }
   },
   {
-    "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
-    "name": "radix.light",
+    "id": "5f57396c0b8c69cc2c290dae0a6727f8c808df7e",
+    "name": "cake.light.a",
     "selectedTokenSets": {
-      "core/radix": "source",
-      "light/radix.light": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "3112568b676b92753b45364b1ff1d98204ec41c2",
-    "name": "chakra.light",
-    "selectedTokenSets": {
-      "light/chakra.light": "enabled",
-      "core/chakra": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
-    "name": "ant.light",
-    "selectedTokenSets": {
-      "core/ant": "source",
-      "light/ant.light": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "a9e637838192a470931a20d34f0c4588bff9db31",
-    "name": "tailwind.light",
-    "selectedTokenSets": {
-      "light/tailwind.light": "enabled",
-      "core/tailwind": "source"
+      "core.brand.a": "source",
+      "light/cake.light.a": "enabled"
     },
     "$figmaStyleReferences": {}
   }

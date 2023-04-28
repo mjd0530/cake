@@ -1,17 +1,17 @@
 {
   "Text": {
     "Primary": {
-      "value": "{Grey.900}",
+      "value": "{Lenovo Brand.Black}",
       "type": "color",
       "description": "Reflects the text.primary variable from the theme object"
     },
     "Secondary": {
-      "value": "#00000099",
+      "value": "{Lenovo Brand.Deep Gray}",
       "type": "color",
       "description": "Reflects the text.secondary variable from the theme object"
     },
     "Disabled": {
-      "value": "#00000061",
+      "value": "{Lenovo Brand.Pale Gray}",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
     },
@@ -46,12 +46,12 @@
   },
   "Primary": {
     "Main": {
-      "value": "{Blue.700}",
+      "value": "{Lenovo Brand.Deep Purple 1}",
       "type": "color",
       "description": "Reflects the Primary/Main variable from the theme object"
     },
     "Dark": {
-      "value": "{Blue.900}",
+      "value": "{Lenovo Brand.Deep Purple 2}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
@@ -71,12 +71,12 @@
     },
     "Shades": {
       "8p": {
-        "value": "{Blue.A100}",
+        "value": "{Lenovo Brand.Pale Purple 2}",
         "type": "color",
         "description": "Used for hover states. The token represents 4% of the Primary/Main token"
       },
       "12p": {
-        "value": "{Blue.A200}",
+        "value": "{Lenovo Brand.Pale Purple 1}",
         "type": "color",
         "description": "Used for selected states. The token represents 8% of the Primary/Main token"
       },
@@ -184,7 +184,7 @@
   },
   "Error": {
     "Main": {
-      "value": "{Red.800}",
+      "value": "{Lenovo Brand.Mid Red 1}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
@@ -422,7 +422,7 @@
       "description": "Reflects the background.default variable from the theme object"
     },
     "Canvas": {
-      "value": "#F8FAFC",
+      "value": "{Lenovo Brand.Pale Gray}",
       "type": "color"
     },
     "darkest": {
@@ -486,6 +486,10 @@
       "value": "#005fcc",
       "type": "color",
       "description": "Reflects the default user agent color"
+    },
+    "brand": {
+      "value": "{Lenovo Brand.Signature Red}",
+      "type": "color"
     }
   },
   "error": {
