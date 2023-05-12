@@ -26,12 +26,12 @@
   },
   "Primary": {
     "Main": {
-      "value": "{blue.700}",
+      "value": "{blue.800}",
       "type": "color",
       "description": "Reflects the Primary/Main variable from the theme object"
     },
     "Dark": {
-      "value": "{blue.800}",
+      "value": "{blue.900}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
@@ -127,7 +127,7 @@
   },
   "Info": {
     "Main": {
-      "value": "{blue.600}",
+      "value": "{blue.700}",
       "type": "color",
       "description": "Reflects the info.main variable from the theme object"
     },
