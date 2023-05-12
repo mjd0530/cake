@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "core/cake",
-    "core/mui",
     "core/brand",
     "light/cake.light.a",
     "dark/cake.dark.a"
