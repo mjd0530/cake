@@ -18,6 +18,10 @@
     "Ghost": {
       "value": "{slate.500}",
       "type": "color"
+    },
+    "Lightest": {
+      "value": "{common.white}",
+      "type": "color"
     }
   },
   "Primary": {
@@ -181,6 +185,14 @@
     },
     "Disabled": {
       "value": "{gray.100}",
+      "type": "color"
+    },
+    "disabledDark": {
+      "value": "{gray.200}",
+      "type": "color"
+    },
+    "Darkest": {
+      "value": "{gray.900}",
       "type": "color"
     }
   },
