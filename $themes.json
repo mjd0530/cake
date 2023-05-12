@@ -1,7 +1,7 @@
 [
   {
     "id": "7453a6b3925cfa15476f21443e15109145a67556",
-    "name": "cake.light",
+    "name": "cake.light.a",
     "selectedTokenSets": {
       "core/cake": "enabled",
       "light/cake.light.a": "enabled"
@@ -545,32 +545,8 @@
     }
   },
   {
-    "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
-    "name": "radix.light",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "3112568b676b92753b45364b1ff1d98204ec41c2",
-    "name": "chakra.light",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
-    "name": "ant.light",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "a9e637838192a470931a20d34f0c4588bff9db31",
-    "name": "tailwind.light",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "c32d38884a18ad2ad71e0c3cf9d81d8778f26840",
-    "name": "cake_dark",
+    "name": "cake_dark.a",
     "selectedTokenSets": {
       "core/cake": "source",
       "dark/cake.dark.a": "enabled"
@@ -658,13 +634,5 @@
       "Error.Shades.4p": "S:2d48c3360388d29260cce787305e601ff880f302,",
       "Primary.onPrimary": "S:e9baa1b6b6ef834cb3a91505ecc13f8574afeb86,"
     }
-  },
-  {
-    "id": "5f57396c0b8c69cc2c290dae0a6727f8c808df7e",
-    "name": "cake.light.a",
-    "selectedTokenSets": {
-      "core/brand": "source"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
