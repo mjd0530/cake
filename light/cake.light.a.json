@@ -6,12 +6,12 @@
       "description": "Reflects the text.primary variable from the theme object"
     },
     "Secondary": {
-      "value": "{neutral.800}",
+      "value": "{neutral.700}",
       "type": "color",
       "description": "Reflects the text.secondary variable from the theme object"
     },
     "Disabled": {
-      "value": "{neutral.600}",
+      "value": "{neutral.400}",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
     }
@@ -39,60 +39,38 @@
   },
   "Secondary": {
     "Main": {
-      "value": "{Grey.200}",
+      "value": "{slate.100}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "Dark": {
-      "value": "{Grey.300}",
+      "value": "{slate.200}",
+      "type": "color",
+      "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
+    },
+    "Darker": {
+      "value": "{slate.300}",
+      "type": "color",
+      "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
+    },
+    "Lightest": {
+      "value": "{slate.50}",
       "type": "color",
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
     "Light": {
-      "value": "{Grey.50}",
+      "value": "{slate.100}",
       "type": "color",
-      "description": "Reflects the secondary.light variable from the theme object"
+      "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
     },
-    "Contrast": {
-      "value": "Gray.900}",
+    "onSecondary": {
+      "value": "{slate.900}",
       "type": "color",
       "description": "Reflects the secondary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
-    "onPaper": {
-      "value": "{Grey.900}",
+    "Disabled": {
+      "value": "{slate.50}",
       "type": "color"
-    }
-  },
-  "Action": {
-    "Hover (8p)": {
-      "value": "#0000000a",
-      "type": "color",
-      "description": "Reflects the action.hover variable from the theme object"
-    },
-    "Selected (12p)": {
-      "value": "#00000014",
-      "type": "color",
-      "description": "Reflects the action.selected variable from the theme object"
-    },
-    "Disabled Background (12p)": {
-      "value": "#0000001f",
-      "type": "color",
-      "description": "Reflects the action.disabledBackground variable from the theme object"
-    },
-    "Focus (12p)": {
-      "value": "#0000001f",
-      "type": "color",
-      "description": "Reflects the action.focus variable from the theme object"
-    },
-    "Disabled (30p)": {
-      "value": "#00000042",
-      "type": "color",
-      "description": "Reflects the action.disabled variable from the theme object"
-    },
-    "Active (56p)": {
-      "value": "#0000008a",
-      "type": "color",
-      "description": "Reflects the action.active variable from the theme object"
     }
   },
   "Error": {
