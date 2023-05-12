@@ -3,6 +3,22 @@
     "core/cake",
     "core/brand",
     "light/cake.light.a",
-    "dark/cake.dark.a"
+    "dark/cake.dark.a",
+    "core.brand.a",
+    "core/chakra",
+    "core/mui",
+    "core/radix",
+    "core/radix.dark",
+    "core/radix.light",
+    "core/tailwind",
+    "dark/cake",
+    "dark/cake.dark",
+    "light/ant.light",
+    "light/cake",
+    "light/cake.light",
+    "light/cake_Copy",
+    "light/chakra.light",
+    "light/radix.light",
+    "light/tailwind.light"
   ]
 }
