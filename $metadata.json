@@ -17,6 +17,8 @@
     "light/cake",
     "light/cake_Copy",
     "dark/cake.dark",
-    "dark/cake"
+    "dark/cake",
+    "core/cake.dark",
+    "core/cake.light"
   ]
 }

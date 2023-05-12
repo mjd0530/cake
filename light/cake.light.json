@@ -505,7 +505,7 @@
       "y": "0",
       "blur": "4",
       "spread": "2",
-      "color": "{Light.Primary.Shades.30p}",
+      "color": "{Primary.Shades.30p}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
