@@ -3,6 +3,7 @@
     "core/cake",
     "core/brand",
     "light/cake.light.a",
-    "dark/cake.dark.a"
+    "dark/cake.dark.a",
+    "light/cake.light.b"
   ]
 }
