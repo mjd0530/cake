@@ -127,7 +127,7 @@
   },
   "Info": {
     "Main": {
-      "value": "{blue.600}",
+      "value": "{blue.700}",
       "type": "color",
       "description": "Reflects the info.main variable from the theme object"
     },
@@ -223,16 +223,12 @@
       "value": "{slate.300}",
       "type": "color"
     },
-    "Light": {
-      "value": "{slate.200}",
-      "type": "color"
-    },
     "Dark": {
       "value": "{slate.500}",
       "type": "color"
     },
     "Active": {
-      "value": "{blue.600}",
+      "value": "{blue.700}",
       "type": "color"
     },
     "Disabled": {
