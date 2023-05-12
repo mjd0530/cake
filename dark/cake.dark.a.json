@@ -39,7 +39,7 @@
   },
   "Primary": {
     "Main": {
-      "value": "{Blue.11}",
+      "value": "{blue.300}",
       "type": "color"
     },
     "Dark": {
