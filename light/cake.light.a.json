@@ -14,6 +14,10 @@
       "value": "{neutral.400}",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
+    },
+    "Ghost": {
+      "value": "{slate.500}",
+      "type": "color"
     }
   },
   "Primary": {
@@ -167,33 +171,16 @@
       "type": "color",
       "description": "Reflects the background.paper variable from the theme object"
     },
-    "Default": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "Reflects the background.default variable from the theme object"
-    },
     "Canvas": {
-      "value": "#F8FAFC",
+      "value": "{slate.50}",
       "type": "color"
     },
-    "darkest": {
-      "value": "{Grey.700}",
+    "Input": {
+      "value": "{slate.50}",
       "type": "color"
     },
-    "dark": {
-      "value": "{Grey.500}",
-      "type": "color"
-    },
-    "disabled": {
-      "value": "{Grey.300}",
-      "type": "color"
-    },
-    "onDisabled": {
-      "value": "{Grey.500}",
-      "type": "color"
-    },
-    "Bold": {
-      "value": "{Grey.900}",
+    "Disabled": {
+      "value": "{gray.100}",
       "type": "color"
     }
   },
@@ -245,7 +232,7 @@
       "y": "0",
       "blur": "4",
       "spread": "2",
-      "color": "{Error.Shades.30p}",
+      "color": "{red.200}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -256,9 +243,27 @@
       "y": "0",
       "blur": "4",
       "spread": "2",
-      "color": "{Primary.Shades.30p}",
+      "color": "{blue.200}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "Border": {
+    "Main": {
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "{slate.500}",
+      "type": "color"
+    },
+    "Active": {
+      "value": "{blue.600}",
+      "type": "color"
+    },
+    "Disabled": {
+      "value": "{gray.300}",
+      "type": "color"
+    }
   }
 }
