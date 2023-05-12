@@ -2,17 +2,8 @@
   "tokenSetOrder": [
     "core/cake",
     "core/mui",
-    "core/tailwind",
     "core/brand",
-    "light/cake.light",
     "light/cake.light.a",
-    "light/radix.light",
-    "light/chakra.light",
-    "light/ant.light",
-    "light/tailwind.light",
-    "light/cake",
-    "light/cake_Copy",
-    "dark/cake.dark",
-    "dark/cake"
+    "dark/cake.dark.a"
   ]
 }

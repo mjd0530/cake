@@ -4,9 +4,8 @@
     "name": "cake.light",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "light/cake.light": "enabled",
-      "core/mui": "disabled",
-      "core/brand": "disabled"
+      "light/cake.light.a": "enabled",
+      "dark/cake.dark.a": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:1a710fb3c7e963d081a5ecc90048b4c708de7a78,",
@@ -15,7 +14,6 @@
       "Primary.Main": "S:134b86ad67e797bab8fad1a331ce4cc8ce740ded,",
       "Primary.Dark": "S:b6f9e344df2667d12ab0ec27eea41d21d1bafd34,",
       "Primary.Light": "S:3c052b77356c87af0c293ef0a380157e5eaa608d,",
-      "Primary.Contrast": "S:7842c16f0a972379fb6051eac8ece00f43efa025,",
       "Primary.Shades.8p": "S:a4e6c6c6209027fa990b5cf81a36a76bf6c27d35,",
       "Primary.Shades.12p": "S:94e43b8a3b47fb400825cc22e0ddbddd0f3d7c6c,",
       "Primary.Shades.30p": "S:eaeec7b0096c293b72a4c496bed9c2b6445a92ea,",
@@ -24,10 +22,6 @@
       "Secondary.Dark": "S:b647cbed33819d1590ea0f479102af3990a0e155,",
       "Secondary.Light": "S:632c35057be113d6e1d54af6c13da8653000eefe,",
       "Secondary.Contrast": "S:2e06534f0904cd7f50c5276bacc1bcc1ab76f576,",
-      "Secondary.Shades.4p": "S:5d268f6b1d9877a68c7724239d15a0882fa90de2,",
-      "Secondary.Shades.12p": "S:aa6b5384592c933da41019e6aa0fea7d3a44943c,",
-      "Secondary.Shades.30p": "S:c534baa177a627f0d17cef712856223fd9a44fb4,",
-      "Secondary.Shades.50p": "S:3a25b575c2ae3d87c8a0a1702c196b1364f625d4,",
       "Action.Disabled Background (12p)": "S:f21aac9cdd610def431842aeaa3ca6fd357d7a3d,",
       "Action.Focus (12p)": "S:49a59b84e5b4d29d258080d828381cf498f3de6e,",
       "Error.Main": "S:094f470faff1f0d0d3fc9ec0e82e28a81e827587,",
@@ -86,7 +80,6 @@
       "Text.Secondary Shades.18p": "S:732622b910313a3b2eea60c6ed87baed768ee537,",
       "Primary.Shades.16p": "S:6e4985f205e99a0885082231ba740f8d70909ef5,",
       "Secondary.onPaper": "S:93cc24d74a9be4a12912701723cbc32030ec84a2,",
-      "Secondary.Shades.8p": "S:20a0187f0670461a45469be9555858410237a757,",
       "Action.Hover (8p)": "S:b1180444c2ca8c85a53932f3a351d340f59d335e,",
       "Action.Selected (12p)": "S:360ae15f05812303c3083d473e595400f1a9573b,",
       "Action.Disabled (30p)": "S:2af6b597a8cd3dfa87baab6fdb06e00715d741da,",
@@ -541,7 +534,6 @@
       "Elevation.Outlined Light": "S:747f2afe40ce6c0f8c3349fbb862ed6b44de0cd6,",
       "Elevation.Outlined Dark": "S:8e17cd4b14e7b711e6442fbd7db5aa0c8b387c2a,",
       "Success.Shades.8p": "S:4b436954393d7a91ee43ea813b73e171094b6cf6,",
-      "Primary.lightest": "S:3c8b8bf36f3c6699c0a86b7e97de377ad5263256,",
       "Error.lightest": "S:72ae6639f232fa388336b3964744de263d7df75b,",
       "Warning.lightest": "S:64e4b9860ba650cef7267181ee307304bd1d58bc,",
       "Success.lightest": "S:f695b42db1b3fdb21a3a74b8a5102b0900aad79f,",
@@ -549,16 +541,16 @@
       "Typography.Subtitle1": "S:71c477072669b4633baf2f8a7363c1fc37a1c766,",
       "Typography.Body2": "S:cd3426e54a039f5a98939a1c85bcc58b5b8bb581,",
       "Typography.Body1": "S:4745a145ad40465b941158a640f7364791b6f40b,",
-      "Typography.Subtitle2": "S:078fdfcd3fd34f535f0141d30482f9f8ba94a9fa,"
+      "Typography.Subtitle2": "S:078fdfcd3fd34f535f0141d30482f9f8ba94a9fa,",
+      "Primary.onPrimary": "S:7842c16f0a972379fb6051eac8ece00f43efa025,"
     }
   },
   {
     "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
     "name": "radix.light",
     "selectedTokenSets": {
-      "light/radix.light": "enabled",
-      "core/mui": "disabled",
-      "core/brand": "disabled"
+      "light/cake.light.a": "disabled",
+      "dark/cake.dark.a": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -566,9 +558,8 @@
     "id": "3112568b676b92753b45364b1ff1d98204ec41c2",
     "name": "chakra.light",
     "selectedTokenSets": {
-      "light/chakra.light": "enabled",
-      "core/mui": "disabled",
-      "core/brand": "disabled"
+      "light/cake.light.a": "disabled",
+      "dark/cake.dark.a": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -576,9 +567,8 @@
     "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
     "name": "ant.light",
     "selectedTokenSets": {
-      "light/ant.light": "enabled",
-      "core/mui": "disabled",
-      "core/brand": "disabled"
+      "light/cake.light.a": "disabled",
+      "dark/cake.dark.a": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -586,10 +576,8 @@
     "id": "a9e637838192a470931a20d34f0c4588bff9db31",
     "name": "tailwind.light",
     "selectedTokenSets": {
-      "light/tailwind.light": "enabled",
-      "core/tailwind": "source",
-      "core/mui": "disabled",
-      "core/brand": "disabled"
+      "light/cake.light.a": "disabled",
+      "dark/cake.dark.a": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -598,9 +586,8 @@
     "name": "cake_dark",
     "selectedTokenSets": {
       "core/cake": "source",
-      "dark/cake.dark": "enabled",
-      "core/mui": "disabled",
-      "core/brand": "disabled"
+      "light/cake.light.a": "disabled",
+      "dark/cake.dark.a": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:0eee78623e9f799b80907b038f4bb578292dc494,",
@@ -614,7 +601,6 @@
       "Primary.Main": "S:4a659b96cdb31fbf845457119e05fe78943187b5,",
       "Primary.Dark": "S:689906de9e5318e6d92787ff3ae79f5acbd92b12,",
       "Primary.Light": "S:e533b22cea633be60271104f4ceccc0895bbd817,",
-      "Primary.Contrast": "S:e9baa1b6b6ef834cb3a91505ecc13f8574afeb86,",
       "Primary.Shades.8p": "S:46e97a2ad5e464375a53645216ab3fec7811a644,",
       "Primary.Shades.12p": "S:c6a8823d4751552c69c650f2f5ee80c403ddaacd,",
       "Primary.Shades.16p": "S:710114577936fe42d31b3e86ce1757cd7065eb1f,",
@@ -683,16 +669,17 @@
       "Action.Active (54p)": "S:d1d9237653acafd99723616f43a63b5cbe18541b,",
       "Action.Hover (4p)": "S:c30086f319959a24ce078dcc903ccbe2585154e7,",
       "Secondary.Shades.4p": "S:425765cb3008780d2d057922883162220a252ec0,",
-      "Error.Shades.4p": "S:2d48c3360388d29260cce787305e601ff880f302,"
+      "Error.Shades.4p": "S:2d48c3360388d29260cce787305e601ff880f302,",
+      "Primary.onPrimary": "S:e9baa1b6b6ef834cb3a91505ecc13f8574afeb86,"
     }
   },
   {
     "id": "5f57396c0b8c69cc2c290dae0a6727f8c808df7e",
     "name": "cake.light.a",
     "selectedTokenSets": {
-      "light/cake.light.a": "enabled",
-      "core/mui": "disabled",
-      "core/brand": "source"
+      "core/brand": "source",
+      "light/cake.light.a": "disabled",
+      "dark/cake.dark.a": "disabled"
     },
     "$figmaStyleReferences": {}
   }
