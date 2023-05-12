@@ -223,6 +223,10 @@
       "value": "{slate.300}",
       "type": "color"
     },
+    "Light": {
+      "value": "{slate.200}",
+      "type": "color"
+    },
     "Dark": {
       "value": "{slate.500}",
       "type": "color"
