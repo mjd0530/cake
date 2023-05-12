@@ -7,6 +7,14 @@
     "value": "2",
     "type": "borderWidth"
   },
+  "4": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "8": {
+    "value": "8",
+    "type": "sizing"
+  },
   "12": {
     "value": "12",
     "type": "sizing"
@@ -17,6 +25,26 @@
   },
   "24": {
     "value": "24",
+    "type": "sizing"
+  },
+  "32": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "40": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "48": {
+    "value": "48",
+    "type": "sizing"
+  },
+  "56": {
+    "value": "56",
+    "type": "sizing"
+  },
+  "64": {
+    "value": "64",
     "type": "sizing"
   },
   "Common": {
