@@ -1,100 +1,40 @@
 {
   "Text": {
     "Primary": {
-      "value": "{Lenovo Brand.Black}",
+      "value": "{neutral.900}",
       "type": "color",
       "description": "Reflects the text.primary variable from the theme object"
     },
     "Secondary": {
-      "value": "{Lenovo Brand.Deep Gray}",
+      "value": "{neutral.800}",
       "type": "color",
       "description": "Reflects the text.secondary variable from the theme object"
     },
     "Disabled": {
-      "value": "{Lenovo Brand.Pale Gray}",
+      "value": "{neutral.600}",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
-    },
-    "onBold": {
-      "value": "{Grey.100}",
-      "type": "color"
-    },
-    "Primary Shades": {
-      "4p": {
-        "value": "#0000000a",
-        "type": "color"
-      },
-      "12p": {
-        "value": "#ffffff1f",
-        "type": "color"
-      },
-      "30p": {
-        "value": "#ffffff4d",
-        "type": "color"
-      }
-    },
-    "Secondary Shades": {
-      "4p": {
-        "value": "#ffffff0a",
-        "type": "color"
-      },
-      "18p": {
-        "value": "#ffffff2e",
-        "type": "color"
-      }
     }
   },
   "Primary": {
     "Main": {
-      "value": "{Lenovo Brand.Deep Purple 1}",
+      "value": "{blue.800}",
       "type": "color",
       "description": "Reflects the Primary/Main variable from the theme object"
     },
     "Dark": {
-      "value": "{Lenovo Brand.Deep Purple 2}",
+      "value": "{blue.900}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
     "Light": {
-      "value": "{Blue.50}",
+      "value": "{blue.50}",
       "type": "color",
       "description": "Reflects the primary.light variable from the theme object"
     },
-    "lightest": {
-      "value": "#F5F8FC",
+    "onPrimary": {
+      "value": "{common.white}",
       "type": "color"
-    },
-    "Contrast": {
-      "value": "#FFFFFF",
-      "type": "color",
-      "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-    },
-    "Shades": {
-      "8p": {
-        "value": "{Lenovo Brand.Pale Purple 2}",
-        "type": "color",
-        "description": "Used for hover states. The token represents 4% of the Primary/Main token"
-      },
-      "12p": {
-        "value": "{Lenovo Brand.Pale Purple 1}",
-        "type": "color",
-        "description": "Used for selected states. The token represents 8% of the Primary/Main token"
-      },
-      "16p": {
-        "value": "{Blue.A400}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
-      },
-      "30p": {
-        "value": "{Blue.A700}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 30% of the Primary/Main token"
-      },
-      "50p": {
-        "value": "#7FAAD8",
-        "type": "color",
-        "description": "Used for enabled state. The token represents 50% of the Primary/Main token"
-      }
     }
   },
   "Secondary": {
@@ -121,33 +61,6 @@
     "onPaper": {
       "value": "{Grey.900}",
       "type": "color"
-    },
-    "Shades": {
-      "4p": {
-        "value": "{Grey.50}",
-        "type": "color",
-        "description": "Used for hover states. The token represents 4% of the Secondary/Main token"
-      },
-      "8p": {
-        "value": "{Cyan.A200}",
-        "type": "color",
-        "description": "Used for selected states. The token represents 8% of the Secondary/Main token"
-      },
-      "12p": {
-        "value": "{Cyan.A400}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
-      },
-      "30p": {
-        "value": "{Cyan.A700}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 30% of the Secondary/Main token"
-      },
-      "50p": {
-        "value": "#9c27b080",
-        "type": "color",
-        "description": "Used for enabled state. The token represents 50% of the Secondary/Main token"
-      }
     }
   },
   "Action": {
@@ -184,7 +97,7 @@
   },
   "Error": {
     "Main": {
-      "value": "{Lenovo Brand.Mid Red 1}",
+      "value": "{Red.800}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
@@ -422,7 +335,7 @@
       "description": "Reflects the background.default variable from the theme object"
     },
     "Canvas": {
-      "value": "{Lenovo Brand.Pale Gray}",
+      "value": "#F8FAFC",
       "type": "color"
     },
     "darkest": {
@@ -486,10 +399,6 @@
       "value": "#005fcc",
       "type": "color",
       "description": "Reflects the default user agent color"
-    },
-    "brand": {
-      "value": "{Lenovo Brand.Signature Red}",
-      "type": "color"
     }
   },
   "error": {
@@ -509,7 +418,7 @@
       "y": "0",
       "blur": "4",
       "spread": "2",
-      "color": "{Light.Primary.Shades.30p}",
+      "color": "{Primary.Shades.30p}",
       "type": "dropShadow"
     },
     "type": "boxShadow"

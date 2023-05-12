@@ -1,0 +1,414 @@
+{
+  "Text": {
+    "Primary": {
+      "value": "{Grey.50}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "#ffffffb3",
+      "type": "color"
+    },
+    "Disabled": {
+      "value": "#ffffff80",
+      "type": "color"
+    },
+    "Primary Shades": {
+      "4p": {
+        "value": "#0000000a",
+        "type": "color"
+      },
+      "12p": {
+        "value": "#ffffff1f",
+        "type": "color"
+      },
+      "30p": {
+        "value": "#ffffff4d",
+        "type": "color"
+      }
+    },
+    "Secondary Shades": {
+      "4p": {
+        "value": "#ffffff0a",
+        "type": "color"
+      },
+      "18p": {
+        "value": "#ffffff2e",
+        "type": "color"
+      }
+    }
+  },
+  "Primary": {
+    "Main": {
+      "value": "{Blue.11}",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "{Blue.200}",
+      "type": "color"
+    },
+    "Light": {
+      "value": "{Blue.3}",
+      "type": "color"
+    },
+    "Contrast": {
+      "value": "{Background.Paper}",
+      "type": "color"
+    },
+    "Shades": {
+      "8p": {
+        "value": "#1D2125",
+        "type": "color",
+        "description": "Used for hover states. The token represents 4% of the Primary/Main token"
+      },
+      "12p": {
+        "value": "#1D2125",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
+      },
+      "16p": {
+        "value": "#262F37",
+        "type": "color",
+        "description": "Used for selected states. The token represents 16% of the Primary/Main token"
+      },
+      "30p": {
+        "value": "#384A58",
+        "type": "color"
+      },
+      "50p": {
+        "value": "#516E85",
+        "type": "color"
+      }
+    }
+  },
+  "Secondary": {
+    "Main": {
+      "value": "{Slate.Alpha.2}",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "{Grey.50}",
+      "type": "color"
+    },
+    "Light": {
+      "value": "{Grey.300}",
+      "type": "color"
+    },
+    "Contrast": {
+      "value": "{Background.Paper}",
+      "type": "color"
+    },
+    "onPaper": {
+      "value": "{Grey.100}",
+      "type": "color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#1B2324",
+        "type": "color",
+        "description": "Used for hover states. The token represents 4% of the Primary/Main token"
+      },
+      "12p": {
+        "value": "#1B2324",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
+      },
+      "16p": {
+        "value": "#233334",
+        "type": "color",
+        "description": "Used for selected states. The token represents 16% of the Secondary/Main token"
+      },
+      "30p": {
+        "value": "#335053",
+        "type": "color"
+      },
+      "50p": {
+        "value": "#49787E",
+        "type": "color"
+      }
+    }
+  },
+  "Action": {
+    "Hover (8p)": {
+      "value": "#ffffff14",
+      "type": "color"
+    },
+    "Disabled Background (12p)": {
+      "value": "#ffffff1f",
+      "type": "color"
+    },
+    "Focus (12p)": {
+      "value": "#ffffff1f",
+      "type": "color"
+    },
+    "Selected (16p)": {
+      "value": "#ffffff29",
+      "type": "color"
+    },
+    "Disabled (30p)": {
+      "value": "#ffffff4d",
+      "type": "color"
+    },
+    "Active (56p)": {
+      "value": "#ffffff8f",
+      "type": "color"
+    }
+  },
+  "Error": {
+    "Main": {
+      "value": "{Red.11}",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "#d32f2f",
+      "type": "color"
+    },
+    "Light": {
+      "value": "#e57373",
+      "type": "color"
+    },
+    "Contrast": {
+      "value": "{Background.Paper}",
+      "type": "color"
+    },
+    "Shades": {
+      "4p": {
+        "value": "#f4433614",
+        "type": "color"
+      },
+      "12p": {
+        "value": "{Red.2}",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Error/Main token"
+      },
+      "30p": {
+        "value": "#f443364d",
+        "type": "color"
+      },
+      "50p": {
+        "value": "#f4433680",
+        "type": "color"
+      },
+      "160p": {
+        "value": "#fbb4af",
+        "type": "color",
+        "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
+      },
+      "190p": {
+        "value": "#240a08",
+        "type": "color",
+        "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
+      }
+    }
+  },
+  "Warning": {
+    "Main": {
+      "value": "{Orange.11}",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "#f57c00",
+      "type": "color"
+    },
+    "Light": {
+      "value": "#ffb74d",
+      "type": "color"
+    },
+    "Contrast": {
+      "value": "#000000de",
+      "type": "color"
+    },
+    "Shades": {
+      "8p": {
+        "value": "#ffa72614",
+        "type": "color"
+      },
+      "12p": {
+        "value": "{Orange.2}",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Warning/Main token"
+      },
+      "30p": {
+        "value": "#ffa7264d",
+        "type": "color"
+      },
+      "50p": {
+        "value": "#ffa72680",
+        "type": "color"
+      },
+      "160p": {
+        "value": "#ffdca8",
+        "type": "color"
+      },
+      "190p": {
+        "value": "#220c00",
+        "type": "color"
+      }
+    }
+  },
+  "Info": {
+    "Main": {
+      "value": "#29b6f6",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "#0288d1",
+      "type": "color"
+    },
+    "Light": {
+      "value": "#4fc3f7",
+      "type": "color"
+    },
+    "Contrast": {
+      "value": "#000000de",
+      "type": "color"
+    },
+    "Shades": {
+      "8p": {
+        "value": "#0288d114",
+        "type": "color"
+      },
+      "12p": {
+        "value": "#0288d11f",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Info/Main token"
+      },
+      "30p": {
+        "value": "#0288d14d",
+        "type": "color"
+      },
+      "50p": {
+        "value": "#0288d180",
+        "type": "color"
+      },
+      "160p": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "190p": {
+        "value": "#061b25",
+        "type": "color"
+      }
+    }
+  },
+  "Success": {
+    "Main": {
+      "value": "{green.11",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "#388e3c",
+      "type": "color"
+    },
+    "Light": {
+      "value": "#81c784",
+      "type": "color"
+    },
+    "Contrast": {
+      "value": "#000000de",
+      "type": "color"
+    },
+    "Shades": {
+      "8p": {
+        "value": "#66bb6a14",
+        "type": "color"
+      },
+      "12p": {
+        "value": "{Green.2}",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Success/Main token"
+      },
+      "30p": {
+        "value": "#66bb6a4d",
+        "type": "color"
+      },
+      "50p": {
+        "value": "#66bb6a80",
+        "type": "color"
+      },
+      "160p": {
+        "value": "#c2e4c3",
+        "type": "color"
+      },
+      "190p": {
+        "value": "#0f1c10",
+        "type": "color"
+      }
+    }
+  },
+  "Background": {
+    "Default": {
+      "value": "#121212",
+      "type": "color",
+      "description": "Reflects the background.default variable from the theme object"
+    },
+    "Paper": {
+      "value": "#121212",
+      "type": "color",
+      "description": "Reflects the background.paper variable from the theme object. In dark mode, raising the elevation also makes the surface lighter."
+    },
+    "Canvas": {
+      "value": "{Grey.900}",
+      "type": "color",
+      "description": "Reflects the background.paper variable from the theme object. In dark mode, raising the elevation also makes the surface lighter."
+    }
+  },
+  "Other": {
+    "Divider": {
+      "value": "#ffffff1f",
+      "type": "color",
+      "description": "Reflects the divider variable from the theme object"
+    },
+    "Outlined Border (23p)": {
+      "value": "#ffffff3b",
+      "type": "color",
+      "description": "Border style for outlined variant components in resting state (Text Field, Select, Chips, etc)"
+    },
+    "Filled Input Background": {
+      "value": "#ffffff17",
+      "type": "color",
+      "description": "Token for the background style for the Filled variant components (Text Field, Select, Multiline)."
+    },
+    "Standard Input Line": {
+      "value": "#ffffff6b",
+      "type": "color",
+      "description": "Token for the underline style for the Standard variant components (Text Field, Select, Multiline)."
+    },
+    "Snackbar": {
+      "value": "#323232",
+      "type": "color",
+      "description": "Snackbar background color"
+    },
+    "Rating Active": {
+      "value": "#ffb400",
+      "type": "color",
+      "description": "Active state color for Rating component"
+    },
+    "focus-ring-color": {
+      "value": "#99c8ff",
+      "type": "color",
+      "description": "Reflects the default user agent color"
+    }
+  },
+  "error": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "2",
+      "color": "{Error.Shades.50p}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "main": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "2",
+      "color": "{Dark.Primary.Shades.30p}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  }
+}
