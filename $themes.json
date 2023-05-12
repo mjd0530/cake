@@ -4,8 +4,7 @@
     "name": "cake.light",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "light/cake.light.a": "enabled",
-      "dark/cake.dark.a": "disabled"
+      "light/cake.light.a": "enabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:1a710fb3c7e963d081a5ecc90048b4c708de7a78,",
@@ -548,37 +547,25 @@
   {
     "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
     "name": "radix.light",
-    "selectedTokenSets": {
-      "light/cake.light.a": "disabled",
-      "dark/cake.dark.a": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {}
   },
   {
     "id": "3112568b676b92753b45364b1ff1d98204ec41c2",
     "name": "chakra.light",
-    "selectedTokenSets": {
-      "light/cake.light.a": "disabled",
-      "dark/cake.dark.a": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {}
   },
   {
     "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
     "name": "ant.light",
-    "selectedTokenSets": {
-      "light/cake.light.a": "disabled",
-      "dark/cake.dark.a": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {}
   },
   {
     "id": "a9e637838192a470931a20d34f0c4588bff9db31",
     "name": "tailwind.light",
-    "selectedTokenSets": {
-      "light/cake.light.a": "disabled",
-      "dark/cake.dark.a": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {}
   },
   {
@@ -586,7 +573,6 @@
     "name": "cake_dark",
     "selectedTokenSets": {
       "core/cake": "source",
-      "light/cake.light.a": "disabled",
       "dark/cake.dark.a": "enabled"
     },
     "$figmaStyleReferences": {
@@ -677,9 +663,7 @@
     "id": "5f57396c0b8c69cc2c290dae0a6727f8c808df7e",
     "name": "cake.light.a",
     "selectedTokenSets": {
-      "core/brand": "source",
-      "light/cake.light.a": "disabled",
-      "dark/cake.dark.a": "disabled"
+      "core/brand": "source"
     },
     "$figmaStyleReferences": {}
   }
