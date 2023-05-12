@@ -4,7 +4,9 @@
     "name": "cake.light",
     "selectedTokenSets": {
       "core/cake": "enabled",
-      "light/cake.light": "enabled"
+      "light/cake.light": "enabled",
+      "core/mui": "disabled",
+      "core/brand": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:1a710fb3c7e963d081a5ecc90048b4c708de7a78,",
@@ -554,8 +556,9 @@
     "id": "117f6cdd1c56c13cd3e3d794f026369d46a56421",
     "name": "radix.light",
     "selectedTokenSets": {
-      "core/radix": "source",
-      "light/radix.light": "enabled"
+      "light/radix.light": "enabled",
+      "core/mui": "disabled",
+      "core/brand": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -564,7 +567,8 @@
     "name": "chakra.light",
     "selectedTokenSets": {
       "light/chakra.light": "enabled",
-      "core/chakra": "source"
+      "core/mui": "disabled",
+      "core/brand": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -572,8 +576,9 @@
     "id": "a1dc83aee47f0575bbd3a3b1bc0dd82f8f97b2f9",
     "name": "ant.light",
     "selectedTokenSets": {
-      "core/ant": "source",
-      "light/ant.light": "enabled"
+      "light/ant.light": "enabled",
+      "core/mui": "disabled",
+      "core/brand": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -582,7 +587,9 @@
     "name": "tailwind.light",
     "selectedTokenSets": {
       "light/tailwind.light": "enabled",
-      "core/tailwind": "source"
+      "core/tailwind": "source",
+      "core/mui": "disabled",
+      "core/brand": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -592,7 +599,8 @@
     "selectedTokenSets": {
       "core/cake": "source",
       "dark/cake.dark": "enabled",
-      "core/radix.dark": "enabled"
+      "core/mui": "disabled",
+      "core/brand": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.Primary": "S:0eee78623e9f799b80907b038f4bb578292dc494,",
@@ -682,8 +690,9 @@
     "id": "5f57396c0b8c69cc2c290dae0a6727f8c808df7e",
     "name": "cake.light.a",
     "selectedTokenSets": {
-      "core.brand.a": "source",
-      "light/cake.light.a": "enabled"
+      "light/cake.light.a": "enabled",
+      "core/mui": "disabled",
+      "core/brand": "source"
     },
     "$figmaStyleReferences": {}
   }
