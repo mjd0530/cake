@@ -75,235 +75,95 @@
   },
   "Error": {
     "Main": {
-      "value": "{Red.800}",
+      "value": "{red.600}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
     "Dark": {
-      "value": "#c62828",
+      "value": "{red.700}",
       "type": "color",
       "description": "Used for hover states. Reflects the error.dark variable from the theme object"
     },
     "Light": {
-      "value": "#ef5350",
+      "value": "{red.50}",
       "type": "color",
       "description": "Reflects the error.light variable from the theme object"
     },
-    "lightest": {
-      "value": "#F9E9E9",
-      "type": "color"
-    },
-    "Contrast": {
-      "value": "#ffffff",
+    "onError": {
+      "value": "{common.white}",
       "type": "color",
       "description": "Reflects the error.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-    },
-    "Shades": {
-      "4p": {
-        "value": "#d32f2f0a",
-        "type": "color",
-        "description": "Used for hover states. The token represents 4% of the Error/Main token"
-      },
-      "12p": {
-        "value": "{Red.50}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Error/Main token"
-      },
-      "30p": {
-        "value": "#d32f2f4d",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 30% of the Error/Main token"
-      },
-      "50p": {
-        "value": "#d32f2f80",
-        "type": "color",
-        "description": "Used for enabled state. The token represents 50% of the Error/Main token"
-      },
-      "160p": {
-        "value": "#541313",
-        "type": "color",
-        "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
-      },
-      "190p": {
-        "value": "#d32f2f1a",
-        "type": "color",
-        "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
-      }
     }
   },
   "Warning": {
     "Main": {
-      "value": "{Orange.900}",
+      "value": "{orange.600}",
       "type": "color",
       "description": "Reflects the warning.main variable from the theme object"
     },
     "Dark": {
-      "value": "#e65100",
+      "value": "{orange.700}",
       "type": "color",
       "description": "Used for hover states. Reflects the warning.dark variable from the theme object"
     },
     "Light": {
-      "value": "#ff9800",
+      "value": "{orange.50}",
       "type": "color",
       "description": "Reflects the warning.light variable from the theme object"
     },
-    "lightest": {
-      "value": "#FEF1E6",
-      "type": "color"
-    },
-    "Contrast": {
-      "value": "#ffffff",
+    "onWarning": {
+      "value": "{common.white}",
       "type": "color",
       "description": "Reflects the warning.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-    },
-    "Shades": {
-      "4p": {
-        "value": "#ed6c020a",
-        "type": "color",
-        "description": "Used for hover states. The token represents 4% of the Warning/Main token"
-      },
-      "12p": {
-        "value": "{Orange.50}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Warning/Main token"
-      },
-      "30p": {
-        "value": "#ed6c024d",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 30% of the Warning/Main token"
-      },
-      "50p": {
-        "value": "#ed6c0280",
-        "type": "color",
-        "description": "Used for enabled state. The token represents 50% of the Warning/Main token"
-      },
-      "160p": {
-        "value": "#5f2b01",
-        "type": "color",
-        "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
-      },
-      "190p": {
-        "value": "#ed6c021a",
-        "type": "color",
-        "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
-      }
     }
   },
   "Info": {
     "Main": {
-      "value": "{Blue.700}",
+      "value": "{blue.600}",
       "type": "color",
       "description": "Reflects the info.main variable from the theme object"
     },
     "Dark": {
-      "value": "{Blue.800}",
+      "value": "{blue.800}",
       "type": "color",
       "description": "Used for hover states. Reflects the info.dark variable from the theme object"
     },
     "Light": {
-      "value": "{Blue.50}",
+      "value": "{blue.50}",
       "type": "color",
       "description": "Reflects the info.light variable from the theme object"
     },
-    "Contrast": {
-      "value": "#ffffff",
+    "onInfo": {
+      "value": "{common.white}",
       "type": "color",
       "description": "Reflects the info.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-    },
-    "Shades": {
-      "4p": {
-        "value": "#0288d10a",
-        "type": "color",
-        "description": "Used for hover states. The token represents 4% of the Warning/Main token"
-      },
-      "12p": {
-        "value": "#0288d11f",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Info/Main token"
-      },
-      "30p": {
-        "value": "#0288d14d",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 30% of the Warning/Main token"
-      },
-      "50p": {
-        "value": "#0288d180",
-        "type": "color",
-        "description": "Used for enabled state. The token represents 50% of the Warning/Main token"
-      },
-      "160p": {
-        "value": "#013654",
-        "type": "color",
-        "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
-      },
-      "190p": {
-        "value": "#0288d11a",
-        "type": "color",
-        "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
-      }
     }
   },
   "Success": {
     "Main": {
-      "value": "{Green.800}",
+      "value": "{emerald.700}",
       "type": "color",
       "description": "Reflects the success.main variable from the theme object"
     },
     "Dark": {
-      "value": "{green.900}",
+      "value": "{emerald.800}",
       "type": "color",
       "description": "Used for hover states. Reflects the success.dark variable from the theme object"
     },
     "Light": {
-      "value": "#4caf50",
+      "value": "{emerald.50}",
       "type": "color",
       "description": "Reflects the success.light variable from the theme object"
     },
-    "lightest": {
-      "value": "#EBF2EB",
-      "type": "color"
-    },
-    "Contrast": {
-      "value": "#ffffff",
+    "onSuccess": {
+      "value": "{common.white}",
       "type": "color",
       "description": "Reflects the success.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
-    },
-    "Shades": {
-      "8p": {
-        "value": "#2e7d320a",
-        "type": "color",
-        "description": "Used for hover states. The token represents 4% of the Success/Main token"
-      },
-      "12p": {
-        "value": "{Green.50}",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Success/Main token"
-      },
-      "30p": {
-        "value": "#2e7d324d",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 30% of the Success/Main token"
-      },
-      "50p": {
-        "value": "#2e7d3280",
-        "type": "color",
-        "description": "Used for enabled state. The token represents 50% of the Success/Main token"
-      },
-      "160p": {
-        "value": "#123214",
-        "type": "color",
-        "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
-      },
-      "190p": {
-        "value": "#2e7d321a",
-        "type": "color",
-        "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
-      }
     }
   },
   "Background": {
     "Paper": {
-      "value": "#ffffff",
+      "value": "{common.white}",
       "type": "color",
       "description": "Reflects the background.paper variable from the theme object"
     },
