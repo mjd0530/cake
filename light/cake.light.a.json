@@ -83,12 +83,12 @@
   },
   "Error": {
     "Main": {
-      "value": "{red.600}",
+      "value": "{red.700}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
     "Dark": {
-      "value": "{red.700}",
+      "value": "{red.800}",
       "type": "color",
       "description": "Used for hover states. Reflects the error.dark variable from the theme object"
     },
@@ -127,7 +127,7 @@
   },
   "Info": {
     "Main": {
-      "value": "{blue.600}",
+      "value": "{blue.700}",
       "type": "color",
       "description": "Reflects the info.main variable from the theme object"
     },
