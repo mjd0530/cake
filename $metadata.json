@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "core/cake",
-    "light/cake.light.a",
     "dark/cake.dark.a",
+    "light/cake.light.a"
   ]
 }
