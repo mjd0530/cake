@@ -26,17 +26,17 @@
   },
   "Primary": {
     "Main": {
-      "value": "{blue.800}",
+      "value": "{indigo.700}",
       "type": "color",
       "description": "Reflects the Primary/Main variable from the theme object"
     },
     "Dark": {
-      "value": "{blue.900}",
+      "value": "{indigo.800}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
     },
     "Light": {
-      "value": "{blue.50}",
+      "value": "{indigo.50}",
       "type": "color",
       "description": "Reflects the primary.light variable from the theme object"
     },
@@ -196,6 +196,48 @@
       "type": "color"
     }
   },
+  "Other": {
+    "Divider": {
+      "value": "#0000001f",
+      "type": "color",
+      "description": "Reflects the divider variable from the theme object"
+    },
+    "Outlined Border (23p)": {
+      "value": "#0000003b",
+      "type": "color",
+      "description": "Border style for outlined variant components in resting state (Text Field, Select, Chips, etc)"
+    },
+    "Backdrop Overlay": {
+      "value": "#00000080",
+      "type": "color",
+      "description": "Backdrop overlay background-color"
+    },
+    "Filled Input Background": {
+      "value": "#0000000f",
+      "type": "color",
+      "description": "Token for the background style for the Filled variant components (Text Field, Select, Multiline)."
+    },
+    "Standard Input Line": {
+      "value": "#0000006b",
+      "type": "color",
+      "description": "Token for the underline style for the Standard variant components (Text Field, Select, Multiline)."
+    },
+    "Snackbar": {
+      "value": "#323232",
+      "type": "color",
+      "description": "Snackbar background color"
+    },
+    "Rating Active": {
+      "value": "#ffb400",
+      "type": "color",
+      "description": "Active state color for Rating component"
+    },
+    "focus-ring-color": {
+      "value": "#005fcc",
+      "type": "color",
+      "description": "Reflects the default user agent color"
+    }
+  },
   "error": {
     "value": {
       "x": "0",
@@ -221,10 +263,6 @@
   "Border": {
     "Main": {
       "value": "{slate.300}",
-      "type": "color"
-    },
-    "Light": {
-      "value": "{slate.200}",
       "type": "color"
     },
     "Dark": {
