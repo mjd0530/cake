@@ -1847,7 +1847,7 @@
     "H6": {
       "value": {
         "fontFamily": "{fontFamily.roboto}",
-        "fontWeight": "{roboto.roboto-2}",
+        "fontWeight": "{segoe.segoe-2}",
         "lineHeight": "{lineHeights.4}",
         "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.4}",
@@ -2034,7 +2034,7 @@
     "H5": {
       "value": {
         "fontFamily": "{fontFamily.segoe ui}",
-        "fontWeight": "{segoe.segoe-1}",
+        "fontWeight": "{segoe.segoe-2}",
         "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.2}",
