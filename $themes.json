@@ -129,10 +129,6 @@
   {
     "id": "fee0f12a3f7f21e748694454b3d0ca855070a0ca",
     "name": "cake.light.a",
-    "selectedTokenSets": {
-      "light/cake.light.a": "enabled",
-      "core/cake": "source"
-    },
     "$figmaStyleReferences": {
       "slate.50": "S:d934478c0eb568c4feebc0a150e6a32d107daa24,",
       "slate.100": "S:0ff126bfd380f28a7a7abd03859b9e7b873070e1,",
@@ -413,6 +409,10 @@
       "Border.Disabled": "S:8f9252e6e950a61495fbb5bd91a4011f00c5b543,",
       "error": "S:5a2e901c54499273f3cd51bdf9cb79c9322c8252,",
       "main": "S:e983dd1bbdb7fc7bbd4c7f4fd927666220c9f223,"
+    },
+    "selectedTokenSets": {
+      "light/cake.light.a": "enabled",
+      "core/cake": "source"
     }
   }
 ]
