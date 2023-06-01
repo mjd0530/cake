@@ -1694,7 +1694,7 @@
   },
   "lineHeights": {
     "0": {
-      "value": "116.7%",
+      "value": "auto",
       "type": "lineHeights"
     },
     "1": {

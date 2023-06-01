@@ -105,12 +105,12 @@
   },
   "Warning": {
     "Main": {
-      "value": "{orange.600}",
+      "value": "{orange.700}",
       "type": "color",
       "description": "Reflects the warning.main variable from the theme object"
     },
     "Dark": {
-      "value": "{orange.700}",
+      "value": "{orange.800}",
       "type": "color",
       "description": "Used for hover states. Reflects the warning.dark variable from the theme object"
     },
