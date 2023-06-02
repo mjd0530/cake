@@ -11,7 +11,7 @@
       "description": "Reflects the text.secondary variable from the theme object"
     },
     "Disabled": {
-      "value": "{neutral.400}",
+      "value": "{gray.400}",
       "type": "color",
       "description": "Reflects the text.disabled variable from the theme object"
     },
@@ -184,11 +184,19 @@
       "type": "color"
     },
     "Disabled": {
-      "value": "{gray.100}",
+      "value": "{gray.200}",
       "type": "color"
     },
     "disabledDark": {
       "value": "{gray.200}",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "{slate.600}",
+      "type": "color"
+    },
+    "Darker": {
+      "value": "{slate.700}",
       "type": "color"
     },
     "Darkest": {
@@ -236,7 +244,7 @@
       "type": "color"
     },
     "Disabled": {
-      "value": "{gray.300}",
+      "value": "{gray.400}",
       "type": "color"
     }
   }
