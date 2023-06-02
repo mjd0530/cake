@@ -1982,10 +1982,10 @@
     "Overline": {
       "value": {
         "fontFamily": "{fontFamily.segoe ui}",
-        "fontWeight": "{segoe.segoe-1}",
-        "lineHeight": "{lineHeights.9}",
+        "fontWeight": "{segoe.segoe-2}",
+        "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.1}",
-        "letterSpacing": "{letterSpacing.7}",
+        "letterSpacing": "{letterSpacing.6}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
