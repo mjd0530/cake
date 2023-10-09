@@ -1,7 +1,13 @@
 {
   "tokenSetOrder": [
-    "core/cake",
-    "dark/cake.dark.a",
-    "light/cake.light.a"
+    "cake/primitives",
+    "cake/light.a",
+    "cake/dark.a",
+    "cake/win.hct",
+    "win.hct",
+    "win.hct/aquatic",
+    "win.hct/desert",
+    "win.hct/dusk",
+    "win.hct/nightsky"
   ]
 }

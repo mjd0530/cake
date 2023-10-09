@@ -1,0 +1,26 @@
+{
+  "hcCanvas": {
+    "value": "#FFFAEF",
+    "type": "color"
+  },
+  "hcCanvasText": {
+    "value": "#3D3D3D",
+    "type": "color"
+  },
+  "hcHighlight": {
+    "value": "#903909",
+    "type": "color"
+  },
+  "hcHighlightText": {
+    "value": "#FFF5E3",
+    "type": "color"
+  },
+  "hcHyperlink": {
+    "value": "#1C5E75",
+    "type": "color"
+  },
+  "hcDisabled": {
+    "value": "#676767",
+    "type": "color"
+  }
+}
