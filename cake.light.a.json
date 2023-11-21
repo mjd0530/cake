@@ -1,0 +1,420 @@
+{
+  "reference": {
+    "brand": {
+      "value": "{slate.50}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{blue.700}",
+      "type": "color"
+    },
+    "primary-weak": {
+      "value": "{blue.50}",
+      "type": "color"
+    },
+    "primary-strong": {
+      "value": "{blue.800}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{slate.200}",
+      "type": "color"
+    },
+    "secondary-weak": {
+      "description": "",
+      "value": "{slate.200}",
+      "type": "color"
+    },
+    "secondary-strong": {
+      "description": "",
+      "value": "{slate.200}",
+      "type": "color"
+    },
+    "disabled": {
+      "description": "",
+      "value": "{gray.400}",
+      "type": "color"
+    },
+    "surface-disabled": {
+      "description": "",
+      "value": "{slate.100}",
+      "type": "color"
+    },
+    "info": {
+      "description": "",
+      "value": "{blue.700}",
+      "type": "color"
+    },
+    "info-weak": {
+      "description": "",
+      "value": "{blue.50}",
+      "type": "color"
+    },
+    "info-strong": {
+      "description": "",
+      "value": "{blue.800}",
+      "type": "color"
+    },
+    "warn": {
+      "description": "",
+      "value": "{orange.700}",
+      "type": "color"
+    },
+    "warn-weak": {
+      "description": "",
+      "value": "{orange.50}",
+      "type": "color"
+    },
+    "warn-strong": {
+      "description": "",
+      "value": "{orange.800}",
+      "type": "color"
+    },
+    "error": {
+      "description": "",
+      "value": "{red.700}",
+      "type": "color"
+    },
+    "error-weak": {
+      "description": "",
+      "value": "{red.50}",
+      "type": "color"
+    },
+    "error-strong": {
+      "description": "",
+      "value": "{red.800}",
+      "type": "color"
+    },
+    "success": {
+      "description": "",
+      "value": "{emerald.700}",
+      "type": "color"
+    },
+    "success-weak": {
+      "description": "",
+      "value": "{emerald.50}",
+      "type": "color"
+    },
+    "success-strong": {
+      "description": "",
+      "value": "{emerald.800}",
+      "type": "color"
+    },
+    "helper": {
+      "description": "",
+      "value": "{slate.600}",
+      "type": "color"
+    },
+    "hyperlink": {
+      "value": "{blue.700}",
+      "type": "color"
+    },
+    "focus": {
+      "description": "",
+      "value": "{blue.700}",
+      "type": "color"
+    },
+    "onSematic": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onDisabled": {
+      "value": "{reference.disabled}",
+      "type": "color"
+    }
+  },
+  "surface": {
+    "canvas": {
+      "description": "",
+      "value": "{slate.50}",
+      "type": "color"
+    },
+    "onCanvas": {
+      "description": "",
+      "value": "{slate.100}",
+      "type": "color"
+    },
+    "card": {
+      "description": "",
+      "value": "{common.white}",
+      "type": "color"
+    },
+    "contrast": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onCard": {
+      "value": "{surface.canvas}",
+      "type": "color"
+    },
+    "button-primary": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "button-primary-hover": {
+      "value": "{reference.primary-strong}",
+      "type": "color"
+    },
+    "button-primary-press": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "button-secondary": {
+      "value": "{reference.secondary}",
+      "type": "color"
+    },
+    "button-secondary-hover": {
+      "description": "",
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "button-secondary-press": {
+      "value": "{reference.secondary}",
+      "type": "color"
+    },
+    "button-destructive": {
+      "value": "{reference.error}",
+      "type": "color"
+    },
+    "button-destructive-hover": {
+      "description": "",
+      "value": "{red.800}",
+      "type": "color"
+    },
+    "button-destructive-press": {
+      "value": "{reference.error}",
+      "type": "color"
+    },
+    "item": {
+      "value": "{common.white}",
+      "type": "color"
+    },
+    "item-hover": {
+      "description": "",
+      "value": "{slate.50}",
+      "type": "color"
+    },
+    "item-selected": {
+      "value": "{reference.primary-weak}",
+      "type": "color"
+    },
+    "item-selected-hover": {
+      "description": "",
+      "value": "{blue.100}",
+      "type": "color"
+    },
+    "item-disabled": {
+      "value": "{reference.surface-disabled}",
+      "type": "color"
+    },
+    "item-hover-onCanvas": {
+      "description": "",
+      "value": "{slate.50}",
+      "type": "color"
+    },
+    "item-selected-onCanvas": {
+      "value": "{reference.primary-weak}",
+      "type": "color"
+    },
+    "input": {
+      "value": "{surface.canvas}",
+      "type": "color"
+    },
+    "input-hover": {
+      "value": "{surface.card}",
+      "type": "color"
+    },
+    "input-focus": {
+      "value": "{surface.card}",
+      "type": "color"
+    },
+    "input-rest": {
+      "value": "{surface.card}",
+      "type": "color"
+    },
+    "input-disabled": {
+      "value": "{reference.surface-disabled}",
+      "type": "color"
+    },
+    "input-error": {
+      "value": "{reference.error-weak}",
+      "type": "color"
+    },
+    "input-Oncanvas": {
+      "description": "",
+      "value": "{slate.100}",
+      "type": "color"
+    },
+    "modal": {
+      "value": "{surface.card}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "primary": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "secondary": {
+      "description": "",
+      "value": "{slate.700}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{common.white}",
+      "type": "color"
+    },
+    "onPrimary-weak": {
+      "value": "{reference.primary-strong}",
+      "type": "color"
+    },
+    "onPrimary-disabled": {
+      "value": "{reference.disabled}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onSecondary-disabled": {
+      "description": "",
+      "value": "{slate.400}",
+      "type": "color"
+    },
+    "onContrast": {
+      "description": "",
+      "value": "{slate.100}",
+      "type": "color"
+    },
+    "onItem-hover": {
+      "value": "{text.primary}",
+      "type": "color"
+    },
+    "onItem-selected": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "onSecondary-weak": {
+      "value": "{text.primary}",
+      "type": "color"
+    },
+    "onSemantic": {
+      "description": "",
+      "value": "{common.white}",
+      "type": "color"
+    },
+    "onCanvas-primary": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "onCanvas-secondary": {
+      "value": "{text.secondary}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "primary": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{common.white}",
+      "type": "color"
+    },
+    "onPrimary-weak": {
+      "value": "{reference.primary-strong}",
+      "type": "color"
+    },
+    "secondary": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onSecondary-weak": {
+      "description": "",
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "onItem-selected": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "onCanvas-primary": {
+      "value": "{reference.primary}",
+      "type": "color"
+    }
+  },
+  "border": {
+    "primary": {
+      "description": "",
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "weak": {
+      "description": "",
+      "value": "{slate.200}",
+      "type": "color"
+    },
+    "strong": {
+      "description": "",
+      "value": "{slate.700}",
+      "type": "color"
+    },
+    "input": {
+      "description": "",
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "input-hover": {
+      "description": "",
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "input-rest": {
+      "description": "",
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "input-error": {
+      "value": "{reference.error}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{reference.disabled}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{reference.focus}",
+      "type": "color"
+    },
+    "contrast": {
+      "description": "",
+      "value": "{common.white}",
+      "type": "color"
+    },
+    "zero": {
+      "value": "{common.white}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch"
+          }
+        }
+      },
+      "description": "For use on WHCT"
+    }
+  }
+}
