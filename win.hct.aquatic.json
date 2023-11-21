@@ -1,0 +1,366 @@
+{
+  "reference": {
+    "brand": {
+      "value": "{brand.brand}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{aquatic.hcHighlight}",
+      "type": "color"
+    },
+    "primary-weak": {
+      "value": "{aquatic.hcHighlight}",
+      "type": "color"
+    },
+    "primary-strong": {
+      "value": "{aquatic.hcHighlight}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "secondary-weak": {
+      "value": "{aquatic.hcHighlightSurface}",
+      "type": "color"
+    },
+    "secondary-strong": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{aquatic.hcDisabled}",
+      "type": "color"
+    },
+    "surface-disabled": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "info": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "info-weak": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "info-strong": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "warn": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "warn-weak": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "warn-strong": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "error-weak": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "error-strong": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "success-weak": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "success-strong": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "helper": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "hyperlink": {
+      "value": "{aquatic.hcHyperlink}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{aquatic.hcHyperlink}",
+      "type": "color"
+    },
+    "onSematic": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onDisabled": {
+      "value": "{aquatic.hcDisabled}",
+      "type": "color"
+    }
+  },
+  "surface": {
+    "canvas": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "onCanvas": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "card": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "contrast": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "onCard": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "button-primary": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "button-primary-hover": {
+      "value": "{reference.primary-strong}",
+      "type": "color"
+    },
+    "button-primary-press": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "button-secondary": {
+      "value": "{reference.secondary}",
+      "type": "color"
+    },
+    "button-secondary-hover": {
+      "value": "{aquatic.hcHighlightSurface}",
+      "type": "color"
+    },
+    "button-secondary-press": {
+      "value": "{reference.secondary}",
+      "type": "color"
+    },
+    "button-destructive": {
+      "value": "{reference.error}",
+      "type": "color"
+    },
+    "button-destructive-hovers": {
+      "value": "{aquatic.hcHighlightSurface}",
+      "type": "color"
+    },
+    "button-destructive-press": {
+      "value": "{reference.error}",
+      "type": "color"
+    },
+    "item": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "item-hover": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "item-selected": {
+      "value": "{reference.primary-weak}",
+      "type": "color"
+    },
+    "item-selected-hover": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "item-disabled": {
+      "value": "{reference.surface-disabled}",
+      "type": "color"
+    },
+    "item-hover-onCanvas": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "item-selected-onCanvas": {
+      "value": "{reference.primary-weak}",
+      "type": "color"
+    },
+    "input": {
+      "value": "{surface.canvas}",
+      "type": "color"
+    },
+    "input-hover": {
+      "value": "{surface.card}",
+      "type": "color"
+    },
+    "input-focus": {
+      "value": "{surface.card}",
+      "type": "color"
+    },
+    "input-rest": {
+      "value": "{surface.card}",
+      "type": "color"
+    },
+    "input-disabled": {
+      "value": "{reference.surface-disabled}",
+      "type": "color"
+    },
+    "input-error": {
+      "value": "{reference.error-weak}",
+      "type": "color"
+    },
+    "input-OnCanvass": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "modal": {
+      "value": "{surface.card}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "primary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{aquatic.hcHighlight}",
+      "type": "color"
+    },
+    "onPrimary-weak": {
+      "value": "{reference.primary-strong}",
+      "type": "color"
+    },
+    "onPrimary-disabled": {
+      "value": "{reference.disabled}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onSecondary-disabled": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "onContrast": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onItem-hover": {
+      "value": "{text.primary}",
+      "type": "color"
+    },
+    "onItem-selected": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "onSecondary-weak": {
+      "value": "{text.primary}",
+      "type": "color"
+    },
+    "onSemantic": {
+      "value": "{aquatic.hcCanvas}",
+      "type": "color"
+    },
+    "onCanvas-primary": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "onCanvas-secondary": {
+      "value": "{text.secondary}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "primary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{aquatic.hcHighlight}",
+      "type": "color"
+    },
+    "onPrimary-weak": {
+      "value": "{reference.primary-strong}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onSecondary-weak": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "onItem-selected": {
+      "value": "{reference.primary}",
+      "type": "color"
+    },
+    "onCanvas-primary": {
+      "value": "{reference.primary}",
+      "type": "color"
+    }
+  },
+  "border": {
+    "primary": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "weak": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "strong": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "input": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "input-hover": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "input-rest": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "input-error": {
+      "value": "{reference.error}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{reference.disabled}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{reference.focus}",
+      "type": "color"
+    },
+    "contrast": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color"
+    },
+    "zero": {
+      "value": "{aquatic.hcCanvasText}",
+      "type": "color",
+      "$extensions": {},
+      "description": "For use on WHCT"
+    }
+  }
+}

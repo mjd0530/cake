@@ -6,8 +6,7 @@
     "selectedTokenSets": {
       "cake.primatives": "source",
       "cake.tokens": "source",
-      "cake.light.a": "enabled",
-      "win.hct": "disabled"
+      "cake.light.a": "enabled"
     }
   },
   {
@@ -17,8 +16,19 @@
     "selectedTokenSets": {
       "cake.primatives": "source",
       "cake.tokens": "source",
-      "cake.dark.a": "source",
-      "win.hct": "disabled"
+      "cake.dark.a": "source"
     }
+  },
+  {
+    "id": "016d44853344b45a8e17e9c8314f1f8364bcbea4",
+    "name": "aquatic",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "cake.tokens": "source",
+      "win.hct": "source",
+      "win.hct.aquatic": "source",
+      "cake.primatives": "source"
+    },
+    "group": "win.hct"
   }
 ]
