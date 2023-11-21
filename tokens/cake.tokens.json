@@ -1,0 +1,449 @@
+{
+  "reference": {
+    "brand": {
+      "value": "{brand.lenovoSignatureRed}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{blue.700}",
+      "type": "color"
+    },
+    "primary-weak": {
+      "value": "{blue.50}",
+      "type": "color"
+    },
+    "primary-strong": {
+      "value": "{blue.800}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{slate.200}",
+      "type": "color"
+    },
+    "secondary-weak": {
+      "description": "",
+      "value": "{cake.primitives.slate.200}",
+      "type": "color"
+    },
+    "secondary-strong": {
+      "description": "",
+      "value": "{cake.primitives.slate.200}",
+      "type": "color"
+    },
+    "disabled": {
+      "description": "",
+      "value": "{cake.primitives.gray.400}",
+      "type": "color"
+    },
+    "surface-disabled": {
+      "description": "",
+      "value": "{cake.primitives.slate.100}",
+      "type": "color"
+    },
+    "info": {
+      "description": "",
+      "value": "{cake.primitives.blue.700}",
+      "type": "color"
+    },
+    "info-weak": {
+      "description": "",
+      "value": "{cake.primitives.blue.50}",
+      "type": "color"
+    },
+    "info-strong": {
+      "description": "",
+      "value": "{cake.primitives.blue.800}",
+      "type": "color"
+    },
+    "warn": {
+      "description": "",
+      "value": "{cake.primitives.orange.700}",
+      "type": "color"
+    },
+    "warn-weak": {
+      "description": "",
+      "value": "{cake.primitives.orange.50}",
+      "type": "color"
+    },
+    "warn-strong": {
+      "description": "",
+      "value": "{cake.primitives.orange.800}",
+      "type": "color"
+    },
+    "error": {
+      "description": "",
+      "value": "{cake.primitives.red.700}",
+      "type": "color"
+    },
+    "error-weak": {
+      "description": "",
+      "value": "{cake.primitives.red.50}",
+      "type": "color"
+    },
+    "error-strong": {
+      "description": "",
+      "value": "{cake.primitives.red.800}",
+      "type": "color"
+    },
+    "success": {
+      "description": "",
+      "value": "{cake.primitives.emerald.700}",
+      "type": "color"
+    },
+    "success-weak": {
+      "description": "",
+      "value": "{cake.primitives.emerald.50}",
+      "type": "color"
+    },
+    "success-strong": {
+      "description": "",
+      "value": "{cake.primitives.emerald.800}",
+      "type": "color"
+    },
+    "helper": {
+      "description": "",
+      "value": "{cake.primitives.slate.600}",
+      "type": "color"
+    },
+    "hyperlink": {
+      "value": "{cake.reference.info}",
+      "type": "color"
+    },
+    "focus": {
+      "description": "",
+      "value": "{cake.primitives.blue.700}",
+      "type": "color"
+    },
+    "onSematic": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onDisabled": {
+      "description": "",
+      "value": "{cake.reference.disabled}",
+      "type": "color"
+    }
+  },
+  "surface": {
+    "canvas": {
+      "description": "",
+      "value": "{cake.primitives.slate.50}",
+      "type": "color"
+    },
+    "onCanvas": {
+      "description": "",
+      "value": "{cake.primitives.slate.100}",
+      "type": "color"
+    },
+    "card": {
+      "description": "",
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    },
+    "contrast": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onCard": {
+      "description": "",
+      "value": "{cake.surface.canvas}",
+      "type": "color"
+    },
+    "button-primary": {
+      "description": "",
+      "value": "{cake.reference.primary}",
+      "type": "color"
+    },
+    "button-primary-hover": {
+      "description": "",
+      "value": "{cake.reference.primary-strong}",
+      "type": "color"
+    },
+    "button-primary-press": {
+      "description": "",
+      "value": "{cake.reference.primary}",
+      "type": "color"
+    },
+    "button-secondary": {
+      "description": "",
+      "value": "{cake.reference.secondary}",
+      "type": "color"
+    },
+    "button-secondary-hover": {
+      "description": "",
+      "value": "{cake.primitives.slate.300}",
+      "type": "color"
+    },
+    "button-secondary-press": {
+      "description": "",
+      "value": "{cake.reference.secondary}",
+      "type": "color"
+    },
+    "button-destructive": {
+      "description": "",
+      "value": "{cake.reference.error}",
+      "type": "color"
+    },
+    "button-destructive-hover": {
+      "description": "",
+      "value": "{cake.primitives.red.800}",
+      "type": "color"
+    },
+    "button-destructive-press": {
+      "description": "",
+      "value": "{cake.reference.error}",
+      "type": "color"
+    },
+    "item": {
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    },
+    "item-hover": {
+      "description": "",
+      "value": "{cake.primitives.slate.50}",
+      "type": "color"
+    },
+    "item-selected": {
+      "description": "",
+      "value": "{cake.reference.primary-weak}",
+      "type": "color"
+    },
+    "item-selected-hover": {
+      "description": "",
+      "value": "{cake.primitives.blue.100}",
+      "type": "color"
+    },
+    "item-disabled": {
+      "description": "",
+      "value": "{cake.reference.surface-disabled}",
+      "type": "color"
+    },
+    "item-hover-onCanvas": {
+      "description": "",
+      "value": "{cake.primitives.slate.50}",
+      "type": "color"
+    },
+    "item-selected-onCanvas": {
+      "description": "",
+      "value": "{cake.reference.primary-weak}",
+      "type": "color"
+    },
+    "input": {
+      "description": "",
+      "value": "{cake.surface.canvas}",
+      "type": "color"
+    },
+    "input-hover": {
+      "description": "",
+      "value": "{cake.surface.card}",
+      "type": "color"
+    },
+    "input-focus": {
+      "description": "",
+      "value": "{cake.surface.card}",
+      "type": "color"
+    },
+    "input-rest": {
+      "description": "",
+      "value": "{cake.surface.card}",
+      "type": "color"
+    },
+    "input-disabled": {
+      "description": "",
+      "value": "{cake.reference.surface-disabled}",
+      "type": "color"
+    },
+    "input-error": {
+      "description": "",
+      "value": "{cake.reference.error-weak}",
+      "type": "color"
+    },
+    "input-Oncanvas": {
+      "description": "",
+      "value": "{cake.primitives.slate.100}",
+      "type": "color"
+    },
+    "modal": {
+      "description": "",
+      "value": "{cake.surface.card}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "primary": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "secondary": {
+      "description": "",
+      "value": "{cake.primitives.slate.700}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    },
+    "onPrimary-weak": {
+      "description": "",
+      "value": "{cake.reference.primary-strong}",
+      "type": "color"
+    },
+    "onPrimary-disabled": {
+      "description": "",
+      "value": "{cake.reference.disabled}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onSecondary-disabled": {
+      "description": "",
+      "value": "{cake.primitives.slate.400}",
+      "type": "color"
+    },
+    "onContrast": {
+      "description": "",
+      "value": "{cake.primitives.slate.100}",
+      "type": "color"
+    },
+    "onItem-hover": {
+      "description": "",
+      "value": "{cake.text.primary}",
+      "type": "color"
+    },
+    "onItem-selected": {
+      "description": "",
+      "value": "{cake.reference.primary}",
+      "type": "color"
+    },
+    "onSecondary-weak": {
+      "description": "",
+      "value": "{cake.text.primary}",
+      "type": "color"
+    },
+    "onSemantic": {
+      "description": "",
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    },
+    "onCanvas-primary": {
+      "description": "",
+      "value": "{cake.reference.primary}",
+      "type": "color"
+    },
+    "onCanvas-secondary": {
+      "description": "",
+      "value": "{cake.text.secondary}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "primary": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    },
+    "onPrimary-weak": {
+      "description": "",
+      "value": "{cake.reference.primary-strong}",
+      "type": "color"
+    },
+    "secondary": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onSecondary-weak": {
+      "description": "",
+      "value": "{cake.primitives.slate.900}",
+      "type": "color"
+    },
+    "onItem-selected": {
+      "description": "",
+      "value": "{cake.reference.primary}",
+      "type": "color"
+    },
+    "onCanvas-primary": {
+      "description": "",
+      "value": "{cake.reference.primary}",
+      "type": "color"
+    }
+  },
+  "border": {
+    "primary": {
+      "description": "",
+      "value": "{cake.primitives.slate.300}",
+      "type": "color"
+    },
+    "weak": {
+      "description": "",
+      "value": "{cake.primitives.slate.200}",
+      "type": "color"
+    },
+    "strong": {
+      "description": "",
+      "value": "{cake.primitives.slate.700}",
+      "type": "color"
+    },
+    "input": {
+      "description": "",
+      "value": "{cake.primitives.slate.300}",
+      "type": "color"
+    },
+    "input-hover": {
+      "description": "",
+      "value": "{cake.primitives.slate.300}",
+      "type": "color"
+    },
+    "input-rest": {
+      "description": "",
+      "value": "{cake.primitives.slate.300}",
+      "type": "color"
+    },
+    "input-error": {
+      "description": "",
+      "value": "{cake.reference.error}",
+      "type": "color"
+    },
+    "disabled": {
+      "description": "",
+      "value": "{cake.reference.disabled}",
+      "type": "color"
+    },
+    "focus": {
+      "description": "",
+      "value": "{cake.reference.focus}",
+      "type": "color"
+    },
+    "contrast": {
+      "description": "",
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    },
+    "zero": {
+      "description": "For use on WHCT",
+      "value": "{cake.primitives.common.white}",
+      "type": "color"
+    }
+  },
+  "brand": {
+    "brand": {
+      "value": "{brand.lenovoSignatureRed}",
+      "type": "color"
+    }
+  }
+}
