@@ -359,7 +359,6 @@
     "zero": {
       "value": "{aquatic.hcCanvasText}",
       "type": "color",
-      "$extensions": {},
       "description": "For use on WHCT"
     }
   }
